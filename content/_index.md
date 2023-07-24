@@ -32,8 +32,6 @@ Hier findest du auch [aktuelle Lehren Jesu](/jesus-von-nazareth-botschaften/aktu
 
 Es werden viele Themen angesprochen z.B. die Bedeutung der [Gleichnisse Jesu](/zentrale-themen/die-gleichnisse-jesu/), [Spirituelle Gesetze](/spirituelle-themen/spirituelle-gesetze/), und vieles mehr.
 
-#### [Videos](/videos/) und [Audios](/audios/)
-
 #### Aktuell zur Webseite Beigefügtes
 
 ...findest du [hier](https://search.freefind.com/find.html?id=62743184&w=0&p=0).
