@@ -1,6 +1,6 @@
 baseURL = ""
-languageCode = "de-DE"
-title = "Wahrheit für die Welt"
+languageCode = "nl-NL"
+title = "nieuwe-geboorte.nl"
 theme = "newbirth"
 enableRobotsTXT = true
 googleAnalytics = "UA-xxxxx-1"
@@ -32,9 +32,9 @@ delimiter = ""
 [params]
   [params.homepage_meta_tags]
     meta_description = ""
-    meta_og_title = "Eine spirituelle Reise"
+    meta_og_title = "De weg naar de Waarheid van de Eeuwige Liefde"
     meta_og_type = "article"
-    meta_og_url = "https://wahrheitfuerdiewelt.de/"
-    meta_og_image = "https://wahrheitfuerdiewelt.de/images/social.png"
+    meta_og_url = "https://nieuwe-geboorte.nl/"
+    meta_og_image = "https://nieuwe-geboorte.nl/images/social.png"
     meta_og_description = ""
-    meta_og_site_name = "Wahrheit für die Welt"
+    meta_og_site_name = "nieuwe-geboorte.nl"

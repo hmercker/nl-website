@@ -10,36 +10,27 @@ weight:
 
 ## De weg naar de Waarheid van de Eeuwige Liefde
 
-Früher oder später begibt sich jeder von uns auf die Suche nach Wahrheit, nach Liebe, nach einer Seelenverbindung zum Göttlichen.  Diese Webseite ist denen gewidmet die nach der Wahrheit suchen - den Sinn des Lebens zu verstehen, Harmonie und Frieden zu finden, zu ergründen was geschieht wenn wir sterben, den inneren Antrieb der Suche nach [Gott](/zentrale-themen/wer-oder-was-ist-gott/) zu folgen, die Suche nach etwas dass uns in Einklang bringt was wir im Laufe der Jahre durch verschiedene spirituelle Wege, etablierte Religionsrichtungen und anderes gelernt haben.
+Vroeg of laat begint ieder van ons aan een zoektocht naar waarheid, naar liefde, naar een zielsverbinding met het goddelijke. Deze website is opgedragen aan diegenen die op zoek zijn naar waarheid - om de zin van het leven te begrijpen, harmonie en vrede te vinden, te doorgronden wat er gebeurt als we sterven, om de innerlijke drive van de zoektocht naar God te volgen, de zoektocht naar iets dat ons in harmonie brengt met wat we in de loop der jaren hebben geleerd via verschillende spirituele paden, gevestigde religies en andere.
 
-Was in den folgenden Seiten präsentiert wird, ist verfügbar für ein jeden Suchenden,  wo das Begehren des Herzens nach Liebe nie verbrennt, der Hunger nach Wahrheit und Weisheit immer vorhanden ist, der Durst nach  den Wassern des ewigen Frieden und Glückseligkeit nie gestillt wurde.  Hier wird ein [Weg](/der-weg-der-goettlichen-liebe/) offenbart der zu den ewigen Quellen der Liebe führt,  der ewigen [Liebe Gottes](/padgett-botschaften/die-gabe-der-goettlichen-liebe/).  Hervor gehen die Wahrheiten die Jesus erfahren und der Menschheit offenbart hat. Mittels himmlischer Botschaften wurden diese [Wahrheiten](/padgett-botschaften/das-wahre-evangelium-neu-uebermittelt-durch-jesus/) der Menschheit wieder geschenkt und in Dankbarkeit teilen wir sie mit einem jeden.  
+Wat op de volgende pagina's wordt gepresenteerd is beschikbaar voor elke zoeker waar het verlangen van het hart naar liefde nooit brandt, de honger naar waarheid en wijsheid altijd aanwezig is, de dorst naar de wateren van eeuwige vrede en gelukzaligheid nooit wordt gelest. Hier wordt een pad onthuld dat leidt naar de eeuwige bronnen van liefde, de eeuwige liefde van God. Hier komen de waarheden naar voren die Jezus heeft ervaren en aan de mensheid heeft geopenbaard. Door middel van hemelse boodschappen zijn deze waarheden opnieuw aan de mensheid gegeven en in dankbaarheid delen we ze met iedereen.
 
-### Auf dieser Webseite
+### Op deze website
 
-...findest du Antworten auf viele spirituell orientierte Fragen. Zum Beispiel werden diese häufig gestellten Fragen vollständig beantwortet:
+vind je antwoorden op veel spiritueel georiënteerde vragen. Deze veelgestelde vragen worden bijvoorbeeld volledig beantwoord:
 
-1. Was geschieht mit uns [nach dem Tod](/das-leben-nach-dem-tod/) ? Leben wir oder schlafen wir, wie leben wir, kommunizieren und bewegen wir uns? Was tun wir die meiste Zeit?
-2. Können wir [Gottes Liebe spüren](/padgett-botschaften/das-experiment-die-goettliche-liebe-zu-spuehren/)?
-3. Wir sind Seele. Wie entwickeln wir in unseren Seelenwahrnehmungen? Was beinhaltet die [Seelentransformation](/zentrale-themen/der-prozess-der-seelentransformation/)?
-4. [Reinkarnation](/das-leben-nach-dem-tod/reinkarnation-wahr-oder-falsch/) - wahr oder falsch?
-5. Leben wir im Beginn einer neuen Ära des Lichts? Was wissen wir über die [Erdveränderungen](/zentrale-themen/erdveraenderungen/)?
-6. Gibt es Kontakte mit Bewohnern aus [anderen Bereichen des Universums](/spirituelle-themen/freunde-aus-dem-weltall/)? Leben sie ein spirituelles Leben ? Haben sie eine Seele?
-7. Wie ist unser [Bewusstsein](/zentrale-themen/der-seelenverstand-und-der-materielle-verstand/) aufgebaut?
+1. wat gebeurt er met ons na de dood ? Leven we of slapen we, hoe leven, communiceren en bewegen we? Wat doen we de meeste tijd?
+2. kunnen we Gods liefde voelen ?
+3. we zijn ziel. Hoe ontwikkelen we ons in onze zielsbeleving? Wat houdt ziel-transformatie in?
+4. reïncarnatie - waar of niet waar?
+5. Leven we in het begin van een nieuw tijdperk van licht? Wat weten we over de aardveranderingen ?
+6. zijn er contacten met bewoners uit andere gebieden van het universum ?
+7. Leven ze een spiritueel leven? Hebben ze een ziel ?
+8. Hoe is ons bewustzijn opgebouwd?
 
-Hier findest du auch [aktuelle Lehren Jesu](/jesus-von-nazareth-botschaften/aktuelle-lehren-jesu-2020/), dem Meister des Göttlichen Himmels.
+Hier vind je ook huidige leringen van Jezus, de Meester van de Goddelijke Hemel.
 
-Es werden viele Themen angesprochen z.B. die Bedeutung der [Gleichnisse Jesu](/zentrale-themen/die-gleichnisse-jesu/), [Spirituelle Gesetze](/spirituelle-themen/spirituelle-gesetze/), und vieles mehr.
+Er worden veel onderwerpen behandeld, zoals de betekenis van de gelijkenissen van Jezus, spirituele wetten, en nog veel meer.
 
-#### Aktuell zur Webseite Beigefügtes
+Het staat voor iedereen open om deze gepresenteerde waarheden in hun leven te brengen, ongeacht culturele achtergrond of positie in het leven.  Mogen de volgende pagina's je veel vreugde brengen op je zielenreis en het diepe besef dat we - ieder van ons - geliefd zijn.
 
-...findest du [hier](https://search.freefind.com/find.html?id=62743184&w=0&p=0).
-
-#### ...in anderen Sprachen
-
-1. Englisch - [new-birth.net](https://new-birth.net), [soultruth.ca](https://soultruth.ca), [divinelovesanctuary.com](https://divinelovesanctuary.com)
-2. Französisch - [lanouvelleverite.fr](https://lanouvelleverite.fr) - noch im Bau
-3. Spanisch - [elcaminodelaverdad.es](https://elcaminodelaverdad.es) - noch im Bau
-
-Einem jedem ist es offen diese dargebotenen Wahrheiten in ihr Leben einzubringen, egal des kulturellen Hintergrundes oder des Standes im Leben.  Mögen die folgenden Seiten dir auf deinem Seelenweg große Freude bereiten, und die tiefe Erkenntnis, dass wir - ein jeder von uns - innigst geliebt werden.
-
-Die Webseite *wahrheitfuerdiewelt.de* ist nicht Teil, und soll nicht einer religiösen Einstellung, Institution, Bewegung oder Glaubensrichtung dienen.  Diese Webseite ist allein gedacht, dem Schöpfer des Universums, Gott, zu verhelfen, die Menschheit zu erlösen und die Wichtigkeit des [Gebets für die Göttliche Liebe](/die-gemeinschaft-der-goettlichen-liebe/das-gebet/) klar zu stellen.
+De website *nieuwe-geboorte.nl* maakt geen deel uit van en is niet bedoeld om een religieuze houding, instelling, beweging of denominatie te dienen.  Deze website is uitsluitend bedoeld om de Schepper van het Universum, God, te helpen de mensheid te verlossen en het belang van bidden voor Goddelijke Liefde te verduidelijken.
