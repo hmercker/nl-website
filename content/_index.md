@@ -1,22 +1,20 @@
 ---
-title: "Eine Spirituelle Reise - Der Weg zur Wahrheit der ewigen Liebe"
-menu_title: "Eine Spirituelle Reise - Der Weg zur Wahrheit der ewigen Liebe"
-description: "Eine Spirituelle Reise - Der Weg zur Wahrheit der ewigen Liebe"
+title: "De weg naar de Waarheid van de Eeuwige Liefde"
+menu_title: "De weg naar de Waarheid van de Eeuwige Liefde"
+description: "De weg naar de Waarheid van de Eeuwige Liefde"
 date: 2020-06-06 07:23:19+00:00
 draft: False
 hidden: False
-weight: 6
+weight:
 ---
 
-## Eine Spirituelle Reise
-
-### Der Weg zur Wahrheit der ewigen Liebe
+## De weg naar de Waarheid van de Eeuwige Liefde
 
 Früher oder später begibt sich jeder von uns auf die Suche nach Wahrheit, nach Liebe, nach einer Seelenverbindung zum Göttlichen.  Diese Webseite ist denen gewidmet die nach der Wahrheit suchen - den Sinn des Lebens zu verstehen, Harmonie und Frieden zu finden, zu ergründen was geschieht wenn wir sterben, den inneren Antrieb der Suche nach [Gott](/zentrale-themen/wer-oder-was-ist-gott/) zu folgen, die Suche nach etwas dass uns in Einklang bringt was wir im Laufe der Jahre durch verschiedene spirituelle Wege, etablierte Religionsrichtungen und anderes gelernt haben.
 
 Was in den folgenden Seiten präsentiert wird, ist verfügbar für ein jeden Suchenden,  wo das Begehren des Herzens nach Liebe nie verbrennt, der Hunger nach Wahrheit und Weisheit immer vorhanden ist, der Durst nach  den Wassern des ewigen Frieden und Glückseligkeit nie gestillt wurde.  Hier wird ein [Weg](/der-weg-der-goettlichen-liebe/) offenbart der zu den ewigen Quellen der Liebe führt,  der ewigen [Liebe Gottes](/padgett-botschaften/die-gabe-der-goettlichen-liebe/).  Hervor gehen die Wahrheiten die Jesus erfahren und der Menschheit offenbart hat. Mittels himmlischer Botschaften wurden diese [Wahrheiten](/padgett-botschaften/das-wahre-evangelium-neu-uebermittelt-durch-jesus/) der Menschheit wieder geschenkt und in Dankbarkeit teilen wir sie mit einem jeden.  
 
-#### Auf dieser Webseite
+### Auf dieser Webseite
 
 ...findest du Antworten auf viele spirituell orientierte Fragen. Zum Beispiel werden diese häufig gestellten Fragen vollständig beantwortet:
 

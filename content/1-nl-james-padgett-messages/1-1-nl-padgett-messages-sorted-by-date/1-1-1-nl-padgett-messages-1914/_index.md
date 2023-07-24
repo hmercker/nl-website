@@ -9,7 +9,5 @@ weight:
 ---
 ## Padgett Berichten 1914
 
-Hieronder staan de berichten van 1914, gerangschikt op datum. De originele Engelse tekst is beschikbaar op de website new-birth.net.
-
 **Auteur** | **Titel** | **Datum van het bericht**
 ---|---|---
