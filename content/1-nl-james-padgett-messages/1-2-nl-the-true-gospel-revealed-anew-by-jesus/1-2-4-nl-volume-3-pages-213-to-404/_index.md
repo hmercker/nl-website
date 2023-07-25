@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### Deel 3 pagina's 213 tot 404
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

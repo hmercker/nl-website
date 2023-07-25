@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### Deel 4 pagina's 192 tot 381
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---
