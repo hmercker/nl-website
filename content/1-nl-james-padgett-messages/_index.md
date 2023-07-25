@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight: 10
 ---
-## James Padgett Berichten
+# James Padgett Berichten
 
 1. [Padgett Berichten gesorteerd op Datum](/1-nl-james-padgett-messages/1-1-nl-padgett-messages-sorted-by-date/)
 2. [Het ware evangelie opnieuw geopenbaard door Jezus](/1-nl-james-padgett-messages/1-2-nl-the-true-gospel-revealed-anew-by-jesus/)

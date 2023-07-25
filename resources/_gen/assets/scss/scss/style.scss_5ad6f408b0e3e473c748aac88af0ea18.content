@@ -5950,7 +5950,7 @@ body {
   .content a {
     text-decoration: underline; }
     .content a:hover {
-      color: #fc9964; }
+      color: #c34704; }
   .content p {
     font-family: "PT Serif", serif, -apple-system;
     font-size: 1em;
