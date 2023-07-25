@@ -11,14 +11,14 @@ lg: 960px,
 
 $grid-gutter-width: 20px;
 
-$primary: #D06F0E;
+$primary: #f55905;
 $secondary: #ffca28;
 $black: #212529;
 
 // Links
 $link-color: $primary;
 $link-decoration: none;
-$link-hover-color: lighten($primary, 20%);
+$link-hover-color: darken($primary, 5%);
 $link-hover-decoration: underline;
 
 // Fonts
