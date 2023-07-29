@@ -12,3 +12,4 @@ weight: 20
 1. [53 Openbaringen](/2-nl-dr-samuels-messages/2-1-nl-53-revelations/)
 2. [76 Preken over het Oude Testament door Jezus](/2-nl-dr-samuels-messages/2-2-nl-76-sermons-on-the-old-testament-by-jesus/)
 3. [Diverse berichten van Dr Samuels](/2-nl-dr-samuels-messages/2-3-nl-miscellaneous-messages-from-dr-samuels/)
+4. [Wie was Dr. Samuels?](/2-nl-dr-samuels-messages/2-4-nl-who-was-dr-samuels/)
