@@ -1,13 +1,13 @@
 ---
-title: "Padgett Berichten gesorteerd op Datum"
-menu_title: "Padgett Berichten gesorteerd op Datum"
-description: "Padgett Berichten gesorteerd op Datum"
+title: "Padgett Berichten chronologisch gerangschikt"
+menu_title: "Padgett Berichten chronologisch gerangschikt"
+description: "Padgett Berichten chronologisch gerangschikt"
 date: 2023-07-23 15:43:52+00:00
 draft: False
 hidden: False
 weight: 10
 ---
-## Padgett Berichten gesorteerd op Datum
+## Padgett Berichten chronologisch gerangschikt
 
 | **Jaar**
 |---

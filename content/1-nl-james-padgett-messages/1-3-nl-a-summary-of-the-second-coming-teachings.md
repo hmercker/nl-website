@@ -1,10 +1,10 @@
 ---
-title: "Een samenvatting van de Tweede Komst Leringen"
-menu_title: "Een samenvatting van de Tweede Komst Leringen"
-description: "Een samenvatting van de Tweede Komst Leringen"
+title: "Jezus’ onderricht bij zijn Tweede Komst"
+menu_title: "Jezus’ onderricht bij zijn Tweede Komst"
+description: "Jezus’ onderricht bij zijn Tweede Komst"
 date: 2023-07-23 02:18:11+11:00
 draft: False
 hidden: False
 weight: 30
 ---
-### Een samenvatting van de Tweede Komst Leringen
+### Jezus’ onderricht bij zijn Tweede Komst
