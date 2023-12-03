@@ -1,15 +1,16 @@
 ---
-title: "De weg naar de Waarheid van de Eeuwige Liefde"
-menu_title: "De weg naar de Waarheid van de Eeuwige Liefde"
-description: "De weg naar de Waarheid van de Eeuwige Liefde"
+title: "De Weg naar de Waarheid van Leven in Eeuwige Liefde"
+menu_title: "De Weg naar de Waarheid van Leven in Eeuwige Liefde"
+description: "De Weg naar de Waarheid van Leven in Eeuwige Liefde"
 date: 2020-06-06 07:23:19+00:00
 draft: False
 hidden: False
 weight:
 ---
 
-*Opgedragen aan Iris, zonder wie ik er nimmer toe gekomen zou zijn de op deze website gepresenteerde informatie vanuit het Engels te vertalen (jvsjohn)*
-## De Weg naar de Waarheid van het Leven in eeuwige Liefde
+*Opgedragen aan Iris, zonder wie ik er nimmer toe gekomen zou zijn de op deze website gepresenteerde informatie vanuit het Engels te vertalen - (jvsjohn)*
+
+## De Weg naar de Waarheid van Leven in Eeuwige Liefde
 
 Vroeg of laat begint ieder van ons aan een zoektocht naar waarheid, naar liefde, naar een zielsverbinding met het Goddelijke, de bron van al wat is. Deze website is bestemd voor hen die op zoek zijn naar de waarheid - om de zin van het leven te begrijpen, harmonie en vrede te vinden, te begrijpen wat er gebeurt als we sterven, de innerlijke impuls te volgen van het zoeken naar God, op zoek naar iets dat ons in harmonie brengt met wat we in de loop der jaren geleerd hebben via de verschillende spirituele wegen, gevestigde religies en dergelijke.
 
