@@ -33,3 +33,7 @@ Deze en nog vele andere onderwerpen komen aan bod, zoals bijvoorbeeld de beteken
 Iedereen is vrij om de gepresenteerde waarheden in zijn leven te integreren, ongeacht zijn culturele achtergrond of levenssituatie. Mogen de volgende bladzijden je veel vreugde bezorgen op de reis van je ziel, en het diepe besef dat dat wij - ieder van ons - onze Hemelse Vader heel dierbaar zijn.
 
 De website nieuwe-geboorte.nl maakt geen deel uit van, en is niet bedoeld om, enige religieuze activiteit, instelling, beweging of denominatie te dienen.  Het enige doel van deze website is om de Schepper van het Universum, God, te helpen de mensheid te verlossen en het belang te onthullen van bidden om de Goddelijke Liefde.
+
+<p style="text-align: center;">
+<script type="text/javascript" src="//counter.websiteout.net/js/5/6/0/1"></script>
+</p>
