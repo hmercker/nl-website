@@ -9,4 +9,5 @@ weight:
 ---
 ### Al Fike Berichten van het jaar 2017
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

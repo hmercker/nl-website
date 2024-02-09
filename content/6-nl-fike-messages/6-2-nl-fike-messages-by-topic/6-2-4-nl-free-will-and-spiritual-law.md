@@ -9,4 +9,5 @@ weight:
 ---
 ### Vrije Wil en Spirituele Wetten
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

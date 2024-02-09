@@ -9,4 +9,5 @@ weight:
 ---
 ### Jimbeau Walsh 2020
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

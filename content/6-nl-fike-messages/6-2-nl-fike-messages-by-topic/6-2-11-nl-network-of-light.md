@@ -9,4 +9,5 @@ weight:
 ---
 ### Het netwerk van licht
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

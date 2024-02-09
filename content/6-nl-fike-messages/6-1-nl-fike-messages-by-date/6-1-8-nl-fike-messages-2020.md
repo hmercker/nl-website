@@ -9,4 +9,5 @@ weight:
 ---
 ### Al Fike Berichten van het jaar 2020
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

@@ -9,4 +9,5 @@ weight:
 ---
 ### Veranderingen op Aarde
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

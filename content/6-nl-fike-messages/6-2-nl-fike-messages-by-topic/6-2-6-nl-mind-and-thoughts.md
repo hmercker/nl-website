@@ -9,4 +9,5 @@ weight:
 ---
 ### De Geest en Gedachten
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

@@ -9,4 +9,5 @@ weight:
 ---
 ### Begeleiding en Mediumschap
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

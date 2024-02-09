@@ -9,4 +9,5 @@ weight:
 ---
 ### Het pad van zielsontwaken
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

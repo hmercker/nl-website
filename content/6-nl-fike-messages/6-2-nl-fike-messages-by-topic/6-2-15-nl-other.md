@@ -9,4 +9,5 @@ weight:
 ---
 ### Overige
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

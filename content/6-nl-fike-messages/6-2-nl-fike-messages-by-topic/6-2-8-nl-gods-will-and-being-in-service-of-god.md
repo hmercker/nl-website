@@ -9,4 +9,5 @@ weight:
 ---
 ### Gods Wil en in dienst van God staan
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

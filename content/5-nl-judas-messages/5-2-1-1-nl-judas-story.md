@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Het verhaal van Judas
-
-

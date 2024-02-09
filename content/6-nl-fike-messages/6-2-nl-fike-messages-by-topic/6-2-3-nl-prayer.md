@@ -9,4 +9,5 @@ weight:
 ---
 ### Gebed
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

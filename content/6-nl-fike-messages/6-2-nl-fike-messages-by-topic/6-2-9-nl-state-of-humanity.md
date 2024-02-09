@@ -9,4 +9,5 @@ weight:
 ---
 ### De staat van de mensheid
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

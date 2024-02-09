@@ -9,4 +9,5 @@ weight:
 ---
 ### Jimbeau Walsh 2024
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

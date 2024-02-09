@@ -9,4 +9,5 @@ weight:
 ---
 ### De Ziel
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

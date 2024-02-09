@@ -9,4 +9,5 @@ weight:
 ---
 ### Jimbeau Walsh 2022
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

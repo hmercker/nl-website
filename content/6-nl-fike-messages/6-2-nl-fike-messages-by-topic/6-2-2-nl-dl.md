@@ -9,4 +9,5 @@ weight:
 ---
 ### Goddelijke Liefde
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

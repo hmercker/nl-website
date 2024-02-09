@@ -9,4 +9,5 @@ weight:
 ---
 ### Al Fike Berichten van het Jaar 2013
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

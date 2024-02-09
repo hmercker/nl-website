@@ -9,4 +9,5 @@ weight:
 ---
 ### Jimbeau Walsh 2021
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

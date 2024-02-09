@@ -1,12 +1,13 @@
 ---
 title: "Amada Reza"
-menu_title: ""
+menu_title: "Amada Reza"
 description: "Amada Reza"
 date: 2024-02-01 06:00:01+00:17
 draft: False
-hidden: True
-weight:
+hidden: False
+weight: 10
 ---
 ### Amada Reza
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

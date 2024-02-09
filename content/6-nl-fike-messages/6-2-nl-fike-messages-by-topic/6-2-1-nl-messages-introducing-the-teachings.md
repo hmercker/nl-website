@@ -9,4 +9,5 @@ weight:
 ---
 ### Berichten ter introductie van de leer
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

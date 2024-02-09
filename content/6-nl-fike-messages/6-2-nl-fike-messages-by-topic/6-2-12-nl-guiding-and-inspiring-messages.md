@@ -9,4 +9,5 @@ weight:
 ---
 ### Leidende en Inspirerende Berichten
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

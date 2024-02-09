@@ -8,3 +8,7 @@ hidden: False
 weight: 60
 ---
 ## Berichten via Al Fike
+
+1. [Al Fike Berichten chronologisch gerangschikt](/6-nl-fike-messages/6-1-nl-fike-messages-by-date/)
+2. [Al Fike Berichten op onderwerp gerangschikt](/6-nl-fike-messages/6-2-nl-fike-messages-by-topic/)
+3. [Mediumschap in de Goddelijke Liefde Gemeenschap](/6-nl-fike-messages/6-3-nl-mediumship-in-dl-community/)
