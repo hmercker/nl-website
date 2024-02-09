@@ -7,7 +7,4 @@ draft: False
 hidden: False
 weight: 40
 ---
-## Wie was Dr. Daniel G. Samuels?
-
-**Auteur** | **Titel** | **Datum van het bericht**
----|---|---
+### Wie was Dr. Daniel G. Samuels?

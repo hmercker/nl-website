@@ -1,13 +1,13 @@
 ---
-title: "53 Openbaringen"
-menu_title: "53 Openbaringen"
-description: "53 Openbaringen"
+title: "Openbaringe over het Nieuwe Testament door Jezus"
+menu_title: "Openbaringe over het Nieuwe Testament door Jezus"
+description: "Openbaringe over het Nieuwe Testament door Jezus"
 date: 2020-06-28 02:18:11+11:00
 draft: False
 hidden: False
 weight: 10
 ---
-### 53 Openbaringen
+### Openbaringe over het Nieuwe Testament door Jezus
 
 **Auteur** | **Titel** | **Datum van het bericht**
 ---|---|---
