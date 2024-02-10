@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Helende cirkels en helende merkaba's
-
-

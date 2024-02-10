@@ -9,4 +9,5 @@ weight:
 ---
 ### De Wet van Compensatie
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

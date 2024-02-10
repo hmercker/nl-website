@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### De slaapstaat - uittreksel uit "The Gate of Heaven"
-
-

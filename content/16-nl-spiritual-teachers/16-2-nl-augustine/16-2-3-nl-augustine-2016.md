@@ -9,4 +9,5 @@ weight:
 ---
 ### Augustinus 2016
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

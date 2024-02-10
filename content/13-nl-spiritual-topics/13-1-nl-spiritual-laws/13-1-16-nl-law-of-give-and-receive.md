@@ -9,4 +9,5 @@ weight:
 ---
 ### De Wet van Geven en Ontvangen
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

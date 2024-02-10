@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Waarom is er zoveel kwaad in deze wereld?
-
-

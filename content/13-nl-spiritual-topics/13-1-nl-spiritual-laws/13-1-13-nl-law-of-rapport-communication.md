@@ -9,4 +9,5 @@ weight:
 ---
 ### De Wet van Rapportage en Communicatie
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

@@ -9,4 +9,5 @@ weight:
 ---
 ### Augustinus 2023
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

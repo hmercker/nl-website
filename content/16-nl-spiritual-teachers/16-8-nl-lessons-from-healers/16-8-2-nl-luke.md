@@ -9,4 +9,5 @@ weight:
 ---
 ### Luke
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

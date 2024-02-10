@@ -15,8 +15,8 @@ weight: 30
 [Eileen Caddy](/4-nl-contemporary-messages/4-3-nl-messages-of-deceased-dl-members/4-3-8-nl-eileen-caddy/) |
 [Care Derby Walsh](/4-nl-contemporary-messages/4-3-nl-messages-of-deceased-dl-members/4-3-4-nl-care-derby-walsh/) |
 [Vicky Forest](/4-nl-contemporary-messages/4-3-nl-messages-of-deceased-dl-members/4-3-5-nl-vicky-forest/) |
-[Hans Henning Mercker](/4-nl-contemporary-messages/4-3-nl-messages-of-deceased-dl-members/4-3-7-nl-hans-henning-mercker/) | Marzo 2018
+[Hans Henning Mercker](/4-nl-contemporary-messages/4-3-nl-messages-of-deceased-dl-members/4-3-7-nl-hans-henning-mercker/) | Maart 2018
 [Barbara Davies](/4-nl-contemporary-messages/4-3-nl-messages-of-deceased-dl-members/4-3-2-nl-barbara-davies/) | 2020
-[Joseph Babinsky](/4-nl-contemporary-messages/4-3-nl-messages-of-deceased-dl-members/4-3-6-nl-joseph-babinsky/) | Junio 2021
-[Catherine Koch](/4-nl-contemporary-messages/4-3-nl-messages-of-deceased-dl-members/4-3-9-nl-catherine-koch/) | Marzo 2023
-[Kevin O'Neill](/4-nl-contemporary-messages/4-3-nl-messages-of-deceased-dl-members/4-3-3-nl-kevin-oneill/) | Septiembre 2023
+[Joseph Babinsky](/4-nl-contemporary-messages/4-3-nl-messages-of-deceased-dl-members/4-3-6-nl-joseph-babinsky/) | Juni 2021
+[Catherine Koch](/4-nl-contemporary-messages/4-3-nl-messages-of-deceased-dl-members/4-3-9-nl-catherine-koch/) | Maart 2023
+[Kevin O'Neill](/4-nl-contemporary-messages/4-3-nl-messages-of-deceased-dl-members/4-3-3-nl-kevin-oneill/) | September 2023

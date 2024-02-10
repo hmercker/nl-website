@@ -9,4 +9,5 @@ weight:
 ---
 ### Seretta Kem 2020
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

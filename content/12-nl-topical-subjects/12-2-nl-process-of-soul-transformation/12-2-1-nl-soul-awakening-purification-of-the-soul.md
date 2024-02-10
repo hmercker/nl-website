@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Het Ontwaken van de Ziel en de Zuivering van de Ziel
-
-

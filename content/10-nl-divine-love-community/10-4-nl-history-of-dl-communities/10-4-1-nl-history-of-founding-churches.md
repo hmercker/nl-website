@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### De Geschiedenis van de stichtende Kerken
-
-

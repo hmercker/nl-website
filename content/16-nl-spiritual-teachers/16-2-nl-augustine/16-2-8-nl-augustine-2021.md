@@ -9,4 +9,5 @@ weight:
 ---
 ### Augustinus 2021
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

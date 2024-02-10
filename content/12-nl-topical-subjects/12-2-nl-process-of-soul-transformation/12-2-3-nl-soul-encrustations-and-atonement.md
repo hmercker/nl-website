@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### De Zielekrustingen en verzoening
-
-

@@ -9,4 +9,5 @@ weight:
 ---
 ### De Wet van Harmonie
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Waarom voel ik de aanwezigheid van Gods liefde niet?
-
-

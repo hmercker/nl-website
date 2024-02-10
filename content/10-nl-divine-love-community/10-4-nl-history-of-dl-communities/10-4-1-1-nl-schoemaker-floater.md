@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Dr. Stone en eerwaarde John Paul Gibson
-
-

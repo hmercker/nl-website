@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Wat is waarheid en hoe herken je die?
-
-

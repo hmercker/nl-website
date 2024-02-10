@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Waarom moeten we blijven bidden voor Goddelijke Liefde als we die eenmaal hebben ontvangen?
-
-

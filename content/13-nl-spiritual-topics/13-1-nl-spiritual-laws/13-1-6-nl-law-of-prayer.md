@@ -9,4 +9,5 @@ weight:
 ---
 ### De Wet van Gebed
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

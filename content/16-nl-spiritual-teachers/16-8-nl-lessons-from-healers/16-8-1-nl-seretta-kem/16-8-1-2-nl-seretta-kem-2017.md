@@ -9,4 +9,5 @@ weight:
 ---
 ### Seretta Kem 2017
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

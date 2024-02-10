@@ -9,4 +9,5 @@ weight:
 ---
 ### De Wet van Verlangen en Willen
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

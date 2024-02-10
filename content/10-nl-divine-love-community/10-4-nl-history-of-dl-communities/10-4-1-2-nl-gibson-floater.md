@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Eerwaarde John Paul Gibson
-
-

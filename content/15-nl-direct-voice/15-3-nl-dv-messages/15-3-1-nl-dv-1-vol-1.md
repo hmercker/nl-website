@@ -9,4 +9,5 @@ weight:
 ---
 ### Berichten over de eerste Directe Stem Project - Deel 1
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

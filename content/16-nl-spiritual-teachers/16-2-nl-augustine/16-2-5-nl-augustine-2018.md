@@ -9,4 +9,5 @@ weight:
 ---
 ### Augustus 2018
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

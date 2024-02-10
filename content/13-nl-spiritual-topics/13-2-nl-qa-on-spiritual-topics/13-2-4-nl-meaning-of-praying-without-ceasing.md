@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Wat is de betekenis van "bidden zonder ophouden"?
-
-

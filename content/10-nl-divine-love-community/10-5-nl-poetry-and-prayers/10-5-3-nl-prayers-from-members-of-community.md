@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Gebeden van leden van de geloofsgemeenschap
-
-

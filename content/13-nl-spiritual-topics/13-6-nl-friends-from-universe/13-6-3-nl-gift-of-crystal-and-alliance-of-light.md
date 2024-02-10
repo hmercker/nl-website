@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### De gave van het kristal en de alliantie van licht
-
-

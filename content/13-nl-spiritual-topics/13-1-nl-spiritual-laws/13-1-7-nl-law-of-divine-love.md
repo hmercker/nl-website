@@ -9,4 +9,5 @@ weight:
 ---
 ### De Wet van Goddelijke Liefde
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

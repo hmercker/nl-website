@@ -9,4 +9,5 @@ weight:
 ---
 ### De Wet van Oorzaak en Gevolg
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

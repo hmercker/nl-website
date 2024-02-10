@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Wat is het verschil tussen Natuurlijke en Goddelijke Liefde?
-
-

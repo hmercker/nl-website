@@ -9,4 +9,5 @@ weight:
 ---
 ### De Wet van Egalisatie
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

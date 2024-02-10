@@ -9,4 +9,5 @@ weight:
 ---
 ### De Wet van Vooruitgang, Groei en Verandering
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

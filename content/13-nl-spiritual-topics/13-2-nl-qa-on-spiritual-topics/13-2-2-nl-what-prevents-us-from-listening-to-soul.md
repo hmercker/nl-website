@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Wat weerhoudt ons ervan om naar onze ziel te luisteren?
-
-

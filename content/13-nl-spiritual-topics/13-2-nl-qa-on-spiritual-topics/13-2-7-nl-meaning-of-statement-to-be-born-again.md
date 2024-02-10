@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Wat wordt bedoeld met de uitspraak "opnieuw geboren worden"?
-
-

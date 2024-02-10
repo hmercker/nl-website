@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### De kring van Vancouver
-
-

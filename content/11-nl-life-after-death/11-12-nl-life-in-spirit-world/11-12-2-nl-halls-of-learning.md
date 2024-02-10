@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Zalen van leren
-
-

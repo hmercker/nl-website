@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Belangrijke waarheden die de hele mensheid zou moeten weten
-
-

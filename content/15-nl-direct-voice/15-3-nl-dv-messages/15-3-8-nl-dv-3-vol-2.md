@@ -9,4 +9,5 @@ weight:
 ---
 ### Berichten over de derde Directe Stem Project - Deel 2
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

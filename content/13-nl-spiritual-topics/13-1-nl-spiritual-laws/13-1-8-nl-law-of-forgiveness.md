@@ -9,4 +9,5 @@ weight:
 ---
 ### De Wet van Vergeving
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

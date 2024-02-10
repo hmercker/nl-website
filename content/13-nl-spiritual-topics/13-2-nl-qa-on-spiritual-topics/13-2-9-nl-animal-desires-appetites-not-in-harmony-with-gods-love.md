@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Wat zijn "dierlijke verlangens en begeerten" die niet in harmonie zijn met Gods liefde?
-
-

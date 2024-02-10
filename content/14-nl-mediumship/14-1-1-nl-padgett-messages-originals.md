@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Originelen van de Padgett Berichten
-
-

@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Gebeden en verzen van de engelen
-
-

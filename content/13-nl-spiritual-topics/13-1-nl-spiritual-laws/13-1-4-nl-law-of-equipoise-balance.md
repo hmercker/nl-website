@@ -9,4 +9,5 @@ weight:
 ---
 ### De Wet van Gelijkgerichtheid of Evenwicht
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

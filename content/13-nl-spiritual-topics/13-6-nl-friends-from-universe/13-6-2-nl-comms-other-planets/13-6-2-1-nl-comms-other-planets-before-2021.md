@@ -9,4 +9,5 @@ weight:
 ---
 ### Communicatie van andere planeten vóór 2021
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

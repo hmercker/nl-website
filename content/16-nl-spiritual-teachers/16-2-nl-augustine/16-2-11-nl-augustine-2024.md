@@ -9,4 +9,5 @@ weight:
 ---
 ### Augustinus 2024
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

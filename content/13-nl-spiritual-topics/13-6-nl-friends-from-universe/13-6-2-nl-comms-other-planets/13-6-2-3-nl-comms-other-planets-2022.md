@@ -9,4 +9,5 @@ weight:
 ---
 ### Communicatie van andere planeten 2022
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

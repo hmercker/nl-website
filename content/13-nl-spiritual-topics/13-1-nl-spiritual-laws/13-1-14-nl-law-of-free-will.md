@@ -9,4 +9,5 @@ weight:
 ---
 ### De Wet van Vrije Wil
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

@@ -9,4 +9,5 @@ weight:
 ---
 ### De Wet van Activering
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---
