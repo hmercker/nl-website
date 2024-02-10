@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Het ontwaken en de zuivering van de ziel
-
-

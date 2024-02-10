@@ -8,3 +8,6 @@ hidden: False
 weight: 80
 ---
 ## Gebed en geloof
+
+1. [Gebed](/8-nl-prayer-and-faith/8-1-nl-prayer/)
+2. [Wat is Geloof?](/8-nl-prayer-and-faith/8-2-nl-what-is-faith/)

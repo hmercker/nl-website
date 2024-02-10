@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### De ware aard van God
-
-

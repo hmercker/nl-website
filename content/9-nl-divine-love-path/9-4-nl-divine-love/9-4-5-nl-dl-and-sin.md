@@ -8,5 +8,3 @@ hidden: True
 weight:
 ---
 ### Goddelijke Liefde en Zonde
-
-

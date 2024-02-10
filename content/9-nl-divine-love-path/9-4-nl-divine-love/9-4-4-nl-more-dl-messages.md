@@ -9,4 +9,5 @@ weight:
 ---
 ### Meer Boodschappen over Goddelijke Liefde
 
-
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---
