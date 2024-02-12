@@ -69,3 +69,5 @@ Helen Padgett | [Mevrouw Padgett schreef dat ze geestelijke wetten bestudeert en
 Helen Padgett | [Het eerste bericht van Helen, de vrouw van de heer Padgett, bestemd voor Dr. Stone](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-1-nl-padgett-messages-1914/nl-1914-12-30-1-jep-helen-padgett/) | 30 december 1914
 John H Padgett | [De heer Padgett’s vader vertelt over de registers van zielspartners](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-1-nl-padgett-messages-1914/nl-1914-12-31-1-jep-john-h-padgett/) | 31 december 1914
 Helen Padgett | [Helen bevestigt de inspanning van Padgett om zijn twee vrienden die nu in de geestenwereld zijn naar het Licht van de Vader te brengen.](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-1-nl-padgett-messages-1914/nl-1914-12-31-2-jep-helen-padgett/) | 31 december 1914
+
+Terug naar [begin van 1914 tabel](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-1-nl-padgett-messages-1914/) of terug naar [lijst met jaren](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/).
