@@ -1,0 +1,12 @@
+---
+title: "Jezus vervolgt zijn beschrijving van zijn geboorte en leven tot aan de tijd van zijn openbare optreden"
+menu_title: ""
+description: "Jezus vervolgt zijn beschrijving van zijn geboorte en leven tot aan de tijd van zijn openbare optreden"
+date: 2023-09-01 06:00:01+00:102
+draft: False
+hidden: True
+weight:
+---
+### Jezus vervolgt zijn beschrijving van zijn geboorte en leven tot aan de tijd van zijn openbare optreden
+
+Jezus - ontvangen door James Padgett op 8 juni 1915, Washington, DC, USA.
