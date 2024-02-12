@@ -1,7 +1,7 @@
 ---
-title: "Berichten via Al Fike"
-menu_title: "Berichten via Al Fike"
-description: "Berichten via Al Fike"
+title: "Berichten ontvangen via All Fike"
+menu_title: "Berichten ontvangen via All Fike"
+description: "Berichten ontvangen via All Fike"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: False
