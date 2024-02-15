@@ -1,13 +1,13 @@
 ---
-title: "Andere media waar we veel respect voor hebben"
-menu_title: "Andere media waar we veel respect voor hebben"
-description: "Andere media waar we veel respect voor hebben"
+title: "Andere Mediums waar we veel respect voor hebben"
+menu_title: "Andere Mediums waar we veel respect voor hebben"
+description: "Andere Mediums waar we veel respect voor hebben"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: False
 weight: 
 ---
-### Andere media waar we veel respect voor hebben
+### Andere Mediums waar we veel respect voor hebben
 
 | **Media**
 |---

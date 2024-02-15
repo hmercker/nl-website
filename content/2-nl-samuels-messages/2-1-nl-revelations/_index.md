@@ -1,13 +1,13 @@
 ---
-title: "Openbaringe over het Nieuwe Testament door Jezus"
-menu_title: "Openbaringe over het Nieuwe Testament door Jezus"
-description: "Openbaringe over het Nieuwe Testament door Jezus"
+title: "Openbaringen van Jezus over het Nieuwe Testament"
+menu_title: "Openbaringen van Jezus over het Nieuwe Testament"
+description: "Openbaringen van Jezus over het Nieuwe Testament"
 date: 2020-06-28 02:18:11+11:00
 draft: False
 hidden: False
 weight: 10
 ---
-### Openbaringe over het Nieuwe Testament door Jezus
+### Openbaringen van Jezus over het Nieuwe Testament
 
 **Auteur** | **Titel** | **Datum van het bericht**
 ---|---|---

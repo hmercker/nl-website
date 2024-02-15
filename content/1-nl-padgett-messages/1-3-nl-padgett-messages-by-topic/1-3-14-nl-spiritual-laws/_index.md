@@ -1,13 +1,13 @@
 ---
-title: "Spirituele Wetten"
+title: "Geestelijke Wetten"
 menu_title: ""
-description: "Spirituele Wetten"
+description: "Geestelijke Wetten"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: True
 weight: 
 ---
-### Spirituele Wetten
+### Geestelijke Wetten
 
 |**Wet**
 |---

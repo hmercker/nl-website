@@ -1,13 +1,13 @@
 ---
-title: "De Wet van Egalisatie"
+title: "De Wet van de Egalisatie"
 menu_title: ""
-description: "De Wet van Egalisatie"
+description: "De Wet van de Egalisatie"
 date: 2024-02-01 06:00:01+00:210
 draft: False
 hidden: True
 weight:
 ---
-### De Wet van Egalisatie
+### De Wet van de Egalisatie
 
 **Auteur** | **Titel** | **Datum van het bericht**
 ---|---|---

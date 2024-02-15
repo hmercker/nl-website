@@ -1,13 +1,13 @@
 ---
-title: "Fragmenten uit de werken van James E. Padgett"
-menu_title: "Fragmenten uit de werken van James E. Padgett"
-description: "Fragmenten uit de werken van James E. Padgett"
+title: "James E. Padgett - Fragmenten van Berichten"
+menu_title: "James E. Padgett - Fragmenten van Berichten"
+description: "James E. Padgett - Fragmenten van Berichten"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: False
 weight: 50
 ---
-### Fragmenten uit de werken van James E. Padgett
+### James E. Padgett - Fragmenten van Berichten
 
 |**Jaar**
 |---

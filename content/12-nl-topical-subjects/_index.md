@@ -1,13 +1,13 @@
 ---
-title: "Actuele Onderwerpen"
-menu_title: "Actuele Onderwerpen"
-description: "Actuele Onderwerpen"
+title: "Specifieke onderwerpen"
+menu_title: "Specifieke onderwerpen"
+description: "Specifieke onderwerpen"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: False
 weight: 120
 ---
-## Actuele Onderwerpen
+## Specifieke onderwerpen
 
 | **Onderwerpen**
 |---
@@ -19,4 +19,4 @@ weight: 120
 | [De parabels van Jezus](/12-nl-topical-subjects/12-6-nl-parables-of-jesus/)
 | [Het Elfde Gebod](/12-nl-topical-subjects/12-7-nl-eleventh-commandment/)
 | [De Drie-eenheid](/12-nl-topical-subjects/12-8-nl-trinity/)
-| [Sferen, Dimensies en Ascensie](/12-nl-topical-subjects/12-9-nl-spheres-dimensions-ascension/)
+| [Sferen, Dimensies en Opstijgen](/12-nl-topical-subjects/12-9-nl-spheres-dimensions-ascension/)

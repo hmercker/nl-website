@@ -20,6 +20,6 @@ weight: 110
 | [Zelfmoord en euthanasie](/11-nl-life-after-death/11-7-nl-suicide-and-assisted-suicide/)
 | [Oorlog en geweld](/11-nl-life-after-death/11-8-nl-war-and-violence/)
 | [Abortus en beëindiging van zwangerschap](/11-nl-life-after-death/11-9-nl-abortion-and-termination-of-pregnancy/)
-| [Baby's en kinderen](/11-nl-life-after-death/11-10-nl-babies-and-children/)
+| [Baby’s en kinderen in de Geestenwereld](/11-nl-life-after-death/11-10-nl-babies-and-children/)
 | [Huisdieren en dieren in de wereld van de geesten](/11-nl-life-after-death/11-11-nl-animals-in-spiritual-world/)
-| [Leven in de Geesteswereld](/11-nl-life-after-death/11-12-nl-life-in-spirit-world/)
+| [Leven in de Geestenwereld](/11-nl-life-after-death/11-12-nl-life-in-spirit-world/)

@@ -1,13 +1,13 @@
 ---
-title: "Berichten van overleden Leden van de Goddelijke Liefde Gemeenschap"
-menu_title: "Berichten van overleden Leden van de Goddelijke Liefde Gemeenschap"
-description: "Berichten van overleden Leden van de Goddelijke Liefde Gemeenschap"
+title: "Berichten van overleden leden van de Gemeenschap van de Goddelijke Liefde"
+menu_title: "Berichten van overleden leden van de Gemeenschap van de Goddelijke Liefde"
+description: "Berichten van overleden leden van de Gemeenschap van de Goddelijke Liefde"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: False
 weight: 30
 ---
-### Berichten van overleden Leden van de Goddelijke Liefde Gemeenschap
+### Berichten van overleden leden van de Gemeenschap van de Goddelijke Liefde
 
 **De overledene** | **Datum van overlijden**
 ---|---

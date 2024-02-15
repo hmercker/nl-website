@@ -1,13 +1,13 @@
 ---
-title: "James E. Padgett Berichten chronologisch gerangschikt"
-menu_title: "James E. Padgett Berichten chronologisch gerangschikt"
-description: "James E. Padgett Berichten chronologisch gerangschikt"
+title: "James E. Padgett - Berichten chronologisch gerangschikt"
+menu_title: "James E. Padgett - Berichten chronologisch gerangschikt"
+description: "James E. Padgett - Berichten chronologisch gerangschikt"
 date: 2023-07-23 15:43:52+00:00
 draft: False
 hidden: False
 weight: 40
 ---
-## James E. Padgett Berichten chronologisch gerangschikt
+## James E. Padgett - Berichten chronologisch gerangschikt
 
 | **Jaar**
 |---

@@ -1,13 +1,13 @@
 ---
-title: "Eigentijdse Berichten van Judas"
-menu_title: "Eigentijdse Berichten van Judas"
-description: "Eigentijdse Berichten van Judas"
+title: "Eigentijds Berichten van Judas chronologisch gerangschikt"
+menu_title: "Eigentijds Berichten van Judas chronologisch gerangschikt"
+description: "Eigentijds Berichten van Judas chronologisch gerangschikt"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: False
 weight: 10
 ---
-### Eigentijdse Berichten van Judas
+### Eigentijds Berichten van Judas chronologisch gerangschikt
 
 | **Jaar**
 |---

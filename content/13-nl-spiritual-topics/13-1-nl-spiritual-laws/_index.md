@@ -1,20 +1,20 @@
 ---
-title: "Spirituele wetten"
-menu_title: "Spirituele wetten"
-description: "Spirituele wetten"
+title: "Geestelijke Wetten"
+menu_title: "Geestelijke Wetten"
+description: "Geestelijke Wetten"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: False
 weight: 10
 ---
-### Spirituele wetten
+### Geestelijke Wetten
 
 | **Wet**
 |---
-| [De wet van Aaantrekking](/13-nl-spiritual-topics/13-1-nl-spiritual-laws/13-1-1-nl-law-of-attraction/)
-| [De Wet van Compensatie](/13-nl-spiritual-topics/13-1-nl-spiritual-laws/13-1-2-nl-law-of-compensation/)
-| [De Wet van Egalisatie](/13-nl-spiritual-topics/13-1-nl-spiritual-laws/13-1-3-nl-law-of-equalisation/)
-| [De Wet van Gelijkgerichtheid of Evenwicht](/13-nl-spiritual-topics/13-1-nl-spiritual-laws/13-1-4-nl-law-of-equipoise-balance/)
+| [De Wet van de Aantrekkingskracht](/13-nl-spiritual-topics/13-1-nl-spiritual-laws/13-1-1-nl-law-of-attraction/)
+| [De Wet van de Compensatie](/13-nl-spiritual-topics/13-1-nl-spiritual-laws/13-1-2-nl-law-of-compensation/)
+| [De Wet van de Egalisatie](/13-nl-spiritual-topics/13-1-nl-spiritual-laws/13-1-3-nl-law-of-equalisation/)
+| [De Wet van het Evenwicht of de Balans](/13-nl-spiritual-topics/13-1-nl-spiritual-laws/13-1-4-nl-law-of-equipoise-balance/)
 | [De Wet van Activering](/13-nl-spiritual-topics/13-1-nl-spiritual-laws/13-1-5-nl-law-of-activation/)
 | [De Wet van Gebed](/13-nl-spiritual-topics/13-1-nl-spiritual-laws/13-1-6-nl-law-of-prayer/)
 | [De Wet van Goddelijke Liefde](/13-nl-spiritual-topics/13-1-nl-spiritual-laws/13-1-7-nl-law-of-divine-love/)

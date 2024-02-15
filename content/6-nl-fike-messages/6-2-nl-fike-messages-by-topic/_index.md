@@ -1,20 +1,20 @@
 ---
-title: "Al Fike Berichten op onderwerp gerangschikt"
-menu_title: "Al Fike Berichten op onderwerp gerangschikt"
-description: "Al Fike Berichten op onderwerp gerangschikt"
+title: "Al Fike - Berichten op onderwerp gerangschikt"
+menu_title: "Al Fike - Berichten op onderwerp gerangschikt"
+description: "Al Fike - Berichten op onderwerp gerangschikt"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: False
 weight: 20
 ---
-### Al Fike Berichten op onderwerp gerangschikt
+### Al Fike - Berichten op onderwerp gerangschikt
 
 | **Onderwerp**
 |---
 | [Berichten ter introductie van de leer](/6-nl-fike-messages/6-2-nl-fike-messages-by-topic/6-2-1-nl-messages-introducing-the-teachings/)
 | [Goddelijke Liefde](/6-nl-fike-messages/6-2-nl-fike-messages-by-topic/6-2-2-nl-dl/)
 | [Gebed](/6-nl-fike-messages/6-2-nl-fike-messages-by-topic/6-2-3-nl-prayer/)
-| [Vrije Wil en Spirituele Wetten](/6-nl-fike-messages/6-2-nl-fike-messages-by-topic/6-2-4-nl-free-will-and-spiritual-law/)
+| [Vrije Wil en Geestelijke Wetten](/6-nl-fike-messages/6-2-nl-fike-messages-by-topic/6-2-4-nl-free-will-and-spiritual-law/)
 | [Het pad van zielsontwaken](/6-nl-fike-messages/6-2-nl-fike-messages-by-topic/6-2-5-nl-path-of-the-soul/)
 | [De Geest en Gedachten](/6-nl-fike-messages/6-2-nl-fike-messages-by-topic/6-2-6-nl-mind-and-thoughts/)
 | [De Ziel](/6-nl-fike-messages/6-2-nl-fike-messages-by-topic/6-2-7-nl-the-soul/)

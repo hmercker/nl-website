@@ -11,3 +11,8 @@ weight: 30
 
 **Auteur** | **Titel** | **Datum van het bericht**
 ---|---|---
+
+1. [Openbaringen van Jezus over het Nieuwe Testament](/2-nl-samuels-messages/2-1-nl-revelations/)
+2. [Preken van Jezus over het Oude Testament](/2-nl-samuels-messages/2-2-nl-sermons/)
+3. [Dr. Daniel G. Samuels - Diverse Berichten](/2-nl-samuels-messages/2-3-nl-diverse-messages/)
+4. [](/2-nl-samuels-messages/2-4-nl-who-was-samuels/)

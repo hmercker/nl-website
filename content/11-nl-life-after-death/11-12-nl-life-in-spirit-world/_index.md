@@ -1,13 +1,13 @@
 ---
-title: "Leven in de Geesteswereld"
-menu_title: "Leven in de Geesteswereld"
-description: "Leven in de Geesteswereld"
+title: "Leven in de Geestenwereld"
+menu_title: "Leven in de Geestenwereld"
+description: "Leven in de Geestenwereld"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: False
 weight: 120
 ---
-### Leven in de Geesteswereld
+### Leven in de Geestenwereld
 
 | **Thema**
 |---

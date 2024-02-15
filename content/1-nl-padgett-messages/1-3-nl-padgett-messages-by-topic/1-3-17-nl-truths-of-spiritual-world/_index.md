@@ -1,13 +1,13 @@
 ---
-title: "Waarheden over de spirituele wereld"
+title: "Waarheden over de Geestelijke Wereld"
 menu_title: ""
-description: "Waarheden over de spirituele wereld"
+description: "Waarheden over de Geestelijke Wereld"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: True
 weight: 
 ---
-### Waarheden over de spirituele wereld
+### Waarheden over de Geestelijke Wereld
 
 |**Thema**
 |---

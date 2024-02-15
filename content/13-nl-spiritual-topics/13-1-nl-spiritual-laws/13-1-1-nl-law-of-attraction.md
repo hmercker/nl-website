@@ -1,13 +1,13 @@
 ---
-title: "De wet van Aantrekking"
+title: "De Wet van de Aantrekkingskracht"
 menu_title: ""
-description: "De wet van Aantrekking"
+description: "De Wet van de Aantrekkingskracht"
 date: 2024-02-01 06:00:01+00:208
 draft: False
 hidden: True
 weight:
 ---
-### De wet van Aantrekking
+### De Wet van de Aantrekkingskracht
 
 **Auteur** | **Titel** | **Datum van het bericht**
 ---|---|---

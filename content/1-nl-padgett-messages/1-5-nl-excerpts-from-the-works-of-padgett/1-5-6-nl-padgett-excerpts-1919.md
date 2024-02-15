@@ -1,10 +1,10 @@
 ---
-title: "Fragmenten uit het werk van James E. Padgett voor het jaar 1919"
+title: "James E. Padgett - Fragmenten van Berichten uit 1919"
 menu_title: ""
-description: "Fragmenten uit het werk van James E. Padgett voor het jaar 1919"
+description: "James E. Padgett - Fragmenten van Berichten uit 1919"
 date: 2024-02-01 06:00:01+00:100
 draft: False
 hidden: True
 weight:
 ---
-### Fragmenten uit het werk van James E. Padgett voor het jaar 1919
+### James E. Padgett - Fragmenten van Berichten uit 919

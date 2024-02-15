@@ -1,10 +1,10 @@
 ---
-title: "Goddelijke Liefde Spirituele Mediums"
-menu_title: "Goddelijke Liefde Spirituele Mediums"
-description: "Goddelijke Liefde Spirituele Mediums"
+title: "Geestelijke Mediums van de Goddelijke Liefde"
+menu_title: "Geestelijke Mediums van de Goddelijke Liefde"
+description: "Geestelijke Mediums van de Goddelijke Liefde"
 date: 2024-02-01 06:00:01+00:62
 draft: False
 hidden: False
 weight: 20
 ---
-### Goddelijke Liefde Spirituele Mediums
+### Geestelijke Mediums van de Goddelijke Liefde

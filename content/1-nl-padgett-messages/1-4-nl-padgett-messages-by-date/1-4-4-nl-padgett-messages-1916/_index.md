@@ -1,13 +1,13 @@
 ---
-title: "James E. Padgett Berichten 1916"
+title: "James E. Padgett - Berichten uit 1916"
 menu_title: ""
-description: "James E. Padgett Berichten 1916"
+description: "James E. Padgett - Berichten uit 1916"
 date: 2023-07-23 15:43:52+00:00
 draft: False
 hidden: True
 weight:
 ---
-### James E. Padgett Berichten 1916
+### James E. Padgett - Berichten uit 1916
 
 **Auteur** | **Titel** | **Datum van het bericht**
 ---|---|---
