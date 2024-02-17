@@ -147,5 +147,6 @@ Tot de aanvullende berichten van Jezus behoort er een die ontvangen werd op 25 d
 Dr. Leslie R. Stone
 
 **Noot van de Uitgever:** De extra berichten waarnaar Dr. Stone verwees zijn in deze uitgave verwerkt, met uitzondering van de persoonlijke berichten van Helen Padgett en Mary Kennedy, en de genoemde foto's. Het is het plan van de Foundation Church of Divine Truth om enkele van deze laatste berichten van diens zielspartner op te nemen in een toekomstig, aan Dr. Stone gewijd, deel.
+<small>
 
 [^1]: Deze titel werd pas in 1956 gebruikt, en het allereerste deel verscheen in feite in 1941.
