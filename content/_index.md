@@ -20,7 +20,7 @@ Wat op de volgende bladzijden gepresenteerd wordt, is beschikbaar voor iedere zo
 
 vind je antwoorden op vele spiritueel georiënteerde vragen. Zo worden bijvoorbeeld deze vaak gestelde vragen volledig beantwoord:
 
-1. Wat gebeurt er met ons na de dood? Leven we of slapen we, hoe leven we, communiceren we en verplaatsen we ons? Wat doen we het merendeel van de tijd?
+1. Wat gebeurt er met ons [na de dood](/11-nl-life-after-death/11-2-nl-what-happens-after-death/)? Leven we of slapen we, hoe leven we, communiceren we en verplaatsen we ons? Wat doen we het merendeel van de tijd?
 2. Kunnen we Gods Liefde voelen?
 3. Wij zijn ziel. Hoe evolueren we in onze zielswaarnemingen? Wat houdt zielsverandering in?
 4. Reïncarnatie - waar of onwaar?

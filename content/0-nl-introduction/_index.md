@@ -16,7 +16,7 @@ Een hartelijk welkom op onze website. Mogen de hier gepresenteerde pagina's je v
 
 Waarom werd James E. Padgett het gekozen instrument om deze kostbare openbaringen van Goddelijke Waarheid te overhandigen? James Padgett was de eerste sterveling door wie Jezus in staat was om zijn leringen weer succesvol over te brengen. Jezus zegt:
 
-> Je hebt terecht gezegd dat mijn nieuwe openbaring van de waarheden omtrent de ziel is wat de mensheid in deze tijd nodig heeft, en wat de mensen zullen kunnen aanvaarden als de echte waarheden van Gods liefde en van Zijn wetten. Mijn komst naar jullie is werkelijk mijn tweede komst op aarde, en het resultaat van mijn komst op deze manier zal alle beloften van de Schriften over mijn tweede komst inlossen en vervullen. - [Jezus - 2 december 1915](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-3-nl-padgett-messages-1915-2/nl-1915-12-5-2-jep-jesus/)
+> Je hebt terecht gezegd dat mijn nieuwe openbaring van de waarheden omtrent de ziel is wat de mensheid in deze tijd nodig heeft, en wat de mensen zullen kunnen aanvaarden als de echte waarheden van Gods liefde en van Zijn wetten. Mijn komst naar jullie is werkelijk mijn tweede komst op aarde, en het resultaat van mijn komst op deze manier zal alle beloften van de Schriften over mijn tweede komst inlossen en vervullen. - [Jezus - 2 december 1915](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-3-nl-padgett-messages-1915-2/nl-1915-12-2-1-jep-jesus/)
 
 Jezus schrijft op een later moment waarom hij de heer Padgett heeft uitgekozen voor zijn Tweede Komst:
 
