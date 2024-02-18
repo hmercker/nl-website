@@ -13,5 +13,5 @@ weight: 30
 2. [Berichten van Jezus via James E. Padgett](/3-nl-jesus-messages/3-2-nl-messages-through-padgett/)
 3. [Berichten van Jezus via Dr. Daniel G. Samuels](/3-nl-jesus-messages/3-3-nl-messages-through-samuels/)
 4. [Eigentijdse Berichten van Jezus](/3-nl-jesus-messages/3-4-nl-jesus-cont-messages/)
-5. [Eigentijdse Leerstellingen van Jezus](/3-nl-jesus-messages/3-5-nl-jesus-cont-teachings/)
+5. [Eigentijdse leringen van Jezus](/3-nl-jesus-messages/3-5-nl-jesus-cont-teachings/)
 6. [Had het zin dat Jezus hierheen kwam?](/3-nl-jesus-messages/3-6-nl-any-point-in-jesus-coming-here/)

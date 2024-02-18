@@ -1,13 +1,13 @@
 ---
-title: "Lesse van genesers"
-menu_title: "Lesse van genesers"
-description: "Lesse van genesers"
+title: "Lessen van genezers"
+menu_title: "Lessen van genezers"
+description: "Lessen van genezers"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: False
 weight: 80
 ---
-### Lesse van genesers
+### Lessen van genezers
 
 | **Geneser**
 |---

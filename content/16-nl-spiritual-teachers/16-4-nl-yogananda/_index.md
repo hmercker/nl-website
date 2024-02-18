@@ -1,13 +1,13 @@
 ---
-title: "Gesprekke met Yogananda"
-menu_title: "Gesprekke met Yogananda"
-description: "Gesprekke met Yogananda"
+title: "Gesprekken met Yogananda"
+menu_title: "Gesprekken met Yogananda"
+description: "Gesprekken met Yogananda"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: False
 weight: 40
 ---
-### Gesprekke met Yogananda
+### Gesprekken met Yogananda
 
 | **Jaar**
 |---

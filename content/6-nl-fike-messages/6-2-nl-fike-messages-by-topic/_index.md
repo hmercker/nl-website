@@ -11,7 +11,7 @@ weight: 20
 
 | **Onderwerp**
 |---
-| [Berichten ter introductie van de leer](/6-nl-fike-messages/6-2-nl-fike-messages-by-topic/6-2-1-nl-messages-introducing-the-teachings/)
+| [Berichten ter introductie van de Leringen](/6-nl-fike-messages/6-2-nl-fike-messages-by-topic/6-2-1-nl-messages-introducing-the-teachings/)
 | [Goddelijke Liefde](/6-nl-fike-messages/6-2-nl-fike-messages-by-topic/6-2-2-nl-dl/)
 | [Gebed](/6-nl-fike-messages/6-2-nl-fike-messages-by-topic/6-2-3-nl-prayer/)
 | [Vrije Wil en Geestelijke Wetten](/6-nl-fike-messages/6-2-nl-fike-messages-by-topic/6-2-4-nl-free-will-and-spiritual-law/)

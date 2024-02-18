@@ -1,13 +1,13 @@
 ---
-title: "Leven na de Dood"
-menu_title: "Leven na de Dood"
-description: "Leven na de Dood"
+title: "Leven na de dood"
+menu_title: "Leven na de dood"
+description: "Leven na de dood"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: False
 weight: 110
 ---
-## Leven na de Dood
+## Leven na de dood
 
 | **Thema**
 |---
@@ -21,5 +21,5 @@ weight: 110
 | [Oorlog en geweld](/11-nl-life-after-death/11-8-nl-war-and-violence/)
 | [Abortus en beëindiging van zwangerschap](/11-nl-life-after-death/11-9-nl-abortion-and-termination-of-pregnancy/)
 | [Baby’s en kinderen in de Geestenwereld](/11-nl-life-after-death/11-10-nl-babies-and-children/)
-| [Huisdieren en dieren in de wereld van de geesten](/11-nl-life-after-death/11-11-nl-animals-in-spiritual-world/)
+| [Huisdieren en andere dieren in de Geestenwereld](/11-nl-life-after-death/11-11-nl-animals-in-spiritual-world/)
 | [Leven in de Geestenwereld](/11-nl-life-after-death/11-12-nl-life-in-spirit-world/)

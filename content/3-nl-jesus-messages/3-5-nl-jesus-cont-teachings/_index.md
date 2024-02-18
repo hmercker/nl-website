@@ -1,13 +1,13 @@
 ---
-title: "Eigentijdse Leerstellingen van Jezus"
-menu_title: "Eigentijdse Leerstellingen van Jezus"
-description: "Eigentijdse Leerstellingen van Jezus"
+title: "Eigentijdse leringen van Jezus"
+menu_title: "Eigentijdse leringen van Jezus"
+description: "Eigentijdse leringen van Jezus"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: False
 weight: 50
 ---
-### Eigentijdse Leerstellingen van Jezus
+### Eigentijdse leringen van Jezus
 
 |**Deel**
 |---

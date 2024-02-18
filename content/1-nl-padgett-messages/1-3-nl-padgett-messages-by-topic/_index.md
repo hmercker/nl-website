@@ -1,13 +1,13 @@
 ---
-title: "James E. Padgett - Berichten gerangschikt op Onderwerp"
-menu_title: "James E. Padgett - Berichten gerangschikt op Onderwerp"
-description: "James E. Padgett - Berichten gerangschikt op Onderwerp"
+title: "James E. Padgett - Berichten op onderwerp gerangschikt"
+menu_title: "James E. Padgett - Berichten op onderwerp gerangschikt"
+description: "James E. Padgett - Berichten op onderwerp gerangschikt"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: False
 weight: 30
 ---
-### James E. Padgett - Berichten gerangschikt op Onderwerp
+### James E. Padgett - Berichten op onderwerp gerangschikt
 
 | **Onderwerp**
 |---

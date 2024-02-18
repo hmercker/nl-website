@@ -15,4 +15,4 @@ weight: 140
 4. [De mechanismen van mediumschap](/14-nl-mediumship/14-4-nl-mechanisms-of-mediumship/)
 5. [De gevaren van mediumschap](/14-nl-mediumship/14-5-nl-dangers-of-mediumship/)
 6. [Herkennen van waarheid](/14-nl-mediumship/14-6-nl-recognizing-of-truth/)
-7. [Andere Mediums waar we veel respect voor hebben](/14-nl-mediumship/14-7-nl-mediums-we-have-great-regard-for/)
+7. [Andere mediums waar we veel respect voor hebben](/14-nl-mediumship/14-7-nl-mediums-we-have-great-regard-for/)

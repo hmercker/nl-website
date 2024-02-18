@@ -1,13 +1,13 @@
 ---
-title: "Berichten via andere Mediums"
-menu_title: "Berichten via andere Mediums"
-description: "Berichten via andere Mediums"
+title: "Berichten via andere mediums"
+menu_title: "Berichten via andere mediums"
+description: "Berichten via andere mediums"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: False
 weight: 70
 ---
-## Berichten via andere Mediums
+## Berichten via andere mediums
 
 | **Media**
 |---

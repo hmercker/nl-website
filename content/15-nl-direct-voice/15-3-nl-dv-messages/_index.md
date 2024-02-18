@@ -1,7 +1,7 @@
 ---
-title: "Boodskappe oor die Direkte Stem"
-menu_title: "Boodskappe oor die Direkte Stem"
-description: "Boodskappe oor die Direkte Stem"
+title: "Berichten via Directe Stem"
+menu_title: "Berichten via Directe Stem"
+description: "Berichten via Directe Stem"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: False
