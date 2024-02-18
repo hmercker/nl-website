@@ -1,10 +1,10 @@
 ---
-title: "Cirkels van licht creëren"
+title: "Cirkels van Licht scheppen"
 menu_title: ""
-description: "Cirkels van licht creëren"
+description: "Cirkels van Licht scheppen"
 date: 2024-02-01 06:00:01+00:295
 draft: False
 hidden: True
 weight:
 ---
-### Cirkels van licht creëren
+### Cirkels van Licht scheppen

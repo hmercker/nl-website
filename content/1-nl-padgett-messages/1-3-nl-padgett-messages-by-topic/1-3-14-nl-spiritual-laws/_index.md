@@ -11,6 +11,6 @@ weight:
 
 |**Wet**
 |---
-| [De wet van compensatie en vergeving](/1-nl-padgett-messages/1-3-nl-padgett-messages-by-topic/1-3-14-nl-spiritual-laws/1-3-14-1-nl-law-of-compensation-and-forgiveness/)
-| [De wetten van verstandhouding en communicatie tussen geesten en sterfelijken](/1-nl-padgett-messages/1-3-nl-padgett-messages-by-topic/1-3-14-nl-spiritual-laws/1-3-14-2-nl-laws-of-rapport-communication/)
+| [De Wet van de Compensatie en Vergeving](/1-nl-padgett-messages/1-3-nl-padgett-messages-by-topic/1-3-14-nl-spiritual-laws/1-3-14-1-nl-law-of-compensation-and-forgiveness/)
+| [De Wetten van Rapport en Communicatie tussen geestelijke wezens en stervelingen](/1-nl-padgett-messages/1-3-nl-padgett-messages-by-topic/1-3-14-nl-spiritual-laws/1-3-14-2-nl-laws-of-rapport-communication/)
 | [Andere spirituele wetten](/1-nl-padgett-messages/1-3-nl-padgett-messages-by-topic/1-3-14-nl-spiritual-laws/1-3-14-3-nl-other-spiritual-laws/)

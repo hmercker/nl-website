@@ -1,10 +1,10 @@
 ---
-title: "De wetten van verstandhouding en communicatie tussen geesten en sterfelijken"
+title: "De Wetten van Rapport en Communicatie tussen geestelijke wezens en stervelingen"
 menu_title: ""
-description: "De wetten van verstandhouding en communicatie tussen geesten en sterfelijken"
+description: "De Wetten van Rapport en Communicatie tussen geestelijke wezens en stervelingen"
 date: 2024-02-01 06:00:01+00:282
 draft: False
 hidden: True
 weight:
 ---
-### De wetten van verstandhouding en communicatie tussen geesten en sterfelijken
+### De Wetten van Rapport en Communicatie tussen geestelijke wezens en stervelingen

@@ -1,7 +1,7 @@
 ---
-title: "De getuigenis van Dr. Leslie Rippon Stone"
-menu_title: "De getuigenis van Dr. Leslie Rippon Stone"
-description: "De getuigenis van Dr. Leslie Rippon Stone"
+title: "De getuigenis van Dr. Leslie R. Stone"
+menu_title: "De getuigenis van Dr. Leslie R. Stone"
+description: "De getuigenis van Dr. Leslie R. Stone"
 date: 2024-02-01 06:00:01+00:03
 draft: False
 hidden: False
