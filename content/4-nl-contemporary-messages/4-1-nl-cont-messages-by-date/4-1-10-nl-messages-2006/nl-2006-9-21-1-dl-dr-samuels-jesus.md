@@ -51,7 +51,8 @@ Ik verlaat je nu, hopelijk niet langer een vreemdeling uit het verleden, maar nu
 
 Daniel G. Samuels.
 
-*(**Noot**: Ik dacht dat dit het einde was van een nogal uitgebreide mededeling van Daniël Samuels. Ik kreeg echter een ingeving dat Jezus een naschrift wilde toevoegen. Hieronder staat wat hij te zeggen had.)*
+<small<(**Noot**: Ik dacht dat dit het einde was van een nogal uitgebreide mededeling van Daniël Samuels. Ik kreeg echter een ingeving dat Jezus een naschrift wilde toevoegen. Hieronder staat wat hij te zeggen had.)
+</small>
 
 Ja, beste broeder, dit is Jezus die je benaderd hebt om mij toe te staan een naschrift toe te voegen. Ik wil wel eerst bevestigen dat Daniëls boodschap juist was en is. En omdat mijn geweldige broeder Daniël mij zo goed van dienst was geweest bij het opnemen van mijn berichten, vonden wij dat hij degene moest zijn die vandaag voor ons zou spreken. Natuurlijk is de mijlpaal waarover hij sprak in wezen "vloeiend", en niet stationair. Zoals de aarde de regen op aarde verzamelt, zo verzamelen ook aspirant-zielen steeds meer de Liefde van God in zichzelf. En de "wateren" van Gods Liefde manifesteren zich dus ook steeds meer op aarde.
 
