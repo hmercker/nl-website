@@ -11,6 +11,7 @@ weight: 10
 
 **Auteur** | **Titel** | **Datum van het bericht**
 ---|---|---
+Jezus | [Dr. Samuels krijgt te horen dat zijn huidige werk zal resulteren in een nieuw en gecorrigeerd Evangelie voor de mensheid](/2-nl-samuels-messages/2-3-nl-diverse-messages/nl-8-1954-12-22-samuels-jesus/) | 22 december 1954
 Jezus | [Openbaring 1 - De relatie tussen Jezus en zijn neef, Johannes de Doper](/2-nl-samuels-messages/2-1-nl-revelations/nl-rev-1-samuels-jesus/) | 24 maart 1955
 Johannes | [Openbaring 2 - Leven en optreden van Johannes de Doper](/2-nl-samuels-messages/2-1-nl-revelations/nl-rev-2-samuels-st-john/) | 3 maart 1955
 Jezus | [Openbaring 3 - De Goddelijke Liefde is een bevoorrecht Geschenk van de Vader](/2-nl-samuels-messages/2-1-nl-revelations/nl-rev-3-samuels-jesus/) | 21 april en 3 mei 1955
