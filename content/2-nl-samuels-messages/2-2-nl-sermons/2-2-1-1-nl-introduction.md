@@ -26,31 +26,30 @@ Jezus opent onze ogen en onze harten voor een waardering van zijn volk, zijn voo
 
 De Curatoren,
 Foundation Church of Divine Truth.
-
-> Zie, de dagen komen, spreekt de Heer,  
-> Dat ik een nieuw verbond zal sluiten met het huis van Israël  
+<p style="text-align: center;"> > Zie, de dagen komen, spreekt de Heer,  
+Dat ik een nieuw verbond zal sluiten met het huis van Israël  
 en met het huis van Juda.  
 Ik zal mijn wet in hun binnenste leggen  
 en in hun hart zal ik die schrijven;  
-en ik zal hun God zijn en zij zullen mijn volk zijn.
-En zij zullen niet meer onderwijzen,
-eenieder zijn buurman en eenieder zijn broeder, zeggende:
-Ken de Heer: want zij allen zullen mij kennen,
-van de minste onder hen tot de belangrijkste onder hen, zegt de Heer
-want ik zal hun ongerechtigheid vergeven
-en hun zonde zal ik mij niet meer herinneren. - (Jeremiah, hdfst.31, vers 31,33,34)
+en ik zal hun God zijn en zij zullen mijn volk zijn.  
+En zij zullen niet meer onderwijzen,  
+eenieder zijn buurman en eenieder zijn broeder, zeggende:  
+Ken de Heer: want zij allen zullen mij kennen,  
+van de minste onder hen tot de belangrijkste onder hen, zegt de Heer  
+want ik zal hun ongerechtigheid vergeven  
+en hun zonde zal ik mij niet meer herinneren. - (Jeremiah, hdfst.31, vers 31,33,34)</p>
 
 Deze passage luidt in de NBV21 als volgt:
 
-> De dag zal komen – spreekt de HEER – <br>
-Dat Ik met het volk van Israël en het volk van Juda een nieuw verbond sluit;
-Ik zal mijn wet in hun binnenste leggen
-En hem in hun hart schrijven.
-Dan zal Ik hun God zijn en zij mijn volk.
-Men zal elkaar niet meer hoeven te onderwijzen met de woorden:
-“Leer de HEER kennen,” want iedereen,
-Van groot tot klein, kent Mij dan al – spreekt de HEER.
- Ik zal hun zonden vergeven
+> De dag zal komen – spreekt de HEER –  
+Dat Ik met het volk van Israël en het volk van Juda een nieuw verbond sluit;  
+Ik zal mijn wet in hun binnenste leggen  
+En hem in hun hart schrijven.  
+Dan zal Ik hun God zijn en zij mijn volk.  
+Men zal elkaar niet meer hoeven te onderwijzen met de woorden:  
+“Leer de HEER kennen,” want iedereen,  
+Van groot tot klein, kent Mij dan al – spreekt de HEER.  
+Ik zal hun zonden vergeven  
 En nooit meer denken aan wat zij hebben misdaan. - (Jeremia: 31, vers 31, 33, 34)
 
 (Er is eindelijk een bericht ontvangen van Dr. Daniel G. Samuels, zo'n 34 jaar na zijn dood in 1972.)
