@@ -5,7 +5,7 @@ description: "Dr. Daniel G. Samuels - Berichten"
 date: 2024-02-01 02:18:11+11:00
 draft: False
 hidden: False
-weight: 30
+weight: 20
 ---
 ## Dr. Daniel G. Samuels - Berichten
 
