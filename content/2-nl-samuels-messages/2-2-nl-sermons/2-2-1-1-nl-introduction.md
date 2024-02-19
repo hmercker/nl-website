@@ -26,7 +26,8 @@ Jezus opent onze ogen en onze harten voor een waardering van zijn volk, zijn voo
 
 De Curatoren,
 Foundation Church of Divine Truth.
-<p style="text-align: center;"> > Zie, de dagen komen, spreekt de Heer,  
+<p style="text-align: center;">
+> Zie, de dagen komen, spreekt de Heer,  
 Dat ik een nieuw verbond zal sluiten met het huis van Israël  
 en met het huis van Juda.  
 Ik zal mijn wet in hun binnenste leggen  
@@ -37,7 +38,8 @@ eenieder zijn buurman en eenieder zijn broeder, zeggende:
 Ken de Heer: want zij allen zullen mij kennen,  
 van de minste onder hen tot de belangrijkste onder hen, zegt de Heer  
 want ik zal hun ongerechtigheid vergeven  
-en hun zonde zal ik mij niet meer herinneren. - (Jeremiah, hdfst.31, vers 31,33,34)</p>
+en hun zonde zal ik mij niet meer herinneren. - (Jeremiah, hdfst.31, vers 31,33,34)
+</p>
 
 Deze passage luidt in de NBV21 als volgt:
 
