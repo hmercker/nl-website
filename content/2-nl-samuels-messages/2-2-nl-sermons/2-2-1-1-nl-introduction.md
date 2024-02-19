@@ -27,11 +27,11 @@ Jezus opent onze ogen en onze harten voor een waardering van zijn volk, zijn voo
 De Curatoren,
 Foundation Church of Divine Truth.
 
-> Zie, de dagen komen, spreekt de Heer,
-> Dat ik een nieuw verbond zal sluiten met het huis van Israël
-en met het huis van Juda.
-Ik zal mijn wet in hun binnenste leggen
-en in hun hart zal ik die schrijven;
+> Zie, de dagen komen, spreekt de Heer,  
+> Dat ik een nieuw verbond zal sluiten met het huis van Israël  
+en met het huis van Juda.  
+Ik zal mijn wet in hun binnenste leggen  
+en in hun hart zal ik die schrijven;  
 en ik zal hun God zijn en zij zullen mijn volk zijn.
 En zij zullen niet meer onderwijzen,
 eenieder zijn buurman en eenieder zijn broeder, zeggende:
@@ -42,7 +42,7 @@ en hun zonde zal ik mij niet meer herinneren. - (Jeremiah, hdfst.31, vers 31,33,
 
 Deze passage luidt in de NBV21 als volgt:
 
-> De dag zal komen – spreekt de HEER –
+> De dag zal komen – spreekt de HEER – <br>
 Dat Ik met het volk van Israël en het volk van Juda een nieuw verbond sluit;
 Ik zal mijn wet in hun binnenste leggen
 En hem in hun hart schrijven.
