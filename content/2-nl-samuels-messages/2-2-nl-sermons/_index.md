@@ -15,6 +15,7 @@ Deze preken ontving Dr. Samuels in de periode 1957 tot 1966. Toen ik deze voor h
 
 **Auteur** | **Titel** | **Datum van het bericht**
 ---|---|---
+ | [Introductie](/2-nl-samuels-messages/2-2-nl-sermons/2-2-1-1-nl-introduction/)
 Jezus | [Preek 1 - De weg naar onsterfelijkheid](/2-nl-samuels-messages/2-2-nl-sermons/nl-ser-1-samuels-jesus/) | 16 juli 1957
 Jezus | [Preek 2 - Het falen van het christendom om de Liefde van de Vader te verkondigen](/2-nl-samuels-messages/2-2-nl-sermons/nl-ser-2-samuels-jesus/) | 24 augustus 1957
 Jezus | [Preek 3 - Het gebrek aan de ware genade van God in het huidige christendom](/2-nl-samuels-messages/2-2-nl-sermons/nl-ser-3-samuels-jesus/) | 25 augustus 1957
