@@ -35,6 +35,4 @@ Er waren nog twee andere zegeningen die aan mij werden toegeschreven maar die ik
 
 Ik denk dat ik genoeg geschreven heb voor vanavond en ik ben blij dat ik de gelegenheid heb om te schrijven zoals ik heb gedaan. Ik wil graag dat je het Nieuwe Testament blijft bestuderen en ik zal herhaaldelijk komen om je te laten zien wat ik werkelijk heb gedaan en gezegd. En dus spoor ik je aan om in goede zielsgesteldheid te blijven door voortdurend tot de Vader te bidden om Zijn Goddelijke Liefde en liefdevolle genegenheid; en ik voeg mijn gebeden en liefde toe aan die van de vele Hemelse Geestelijke wezens die zich bij mij aansluiten, dat de Vader Zijn Liefde in grotere mate aan jou en de Dokter schenkt. En ik wil dat jij je bemoedigd voelt met betrekking tot je materiële zaken, die we aan het verbeteren zijn zodanig dat jij en alle andere betrokkenen daar blij mee zijn.
 
-Dus ik zeg je goedenacht en met al mijn liefde voor jou, onderteken ik met,
-
-Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
+Dus ik zeg je goedenacht en met al mijn liefde voor jou, onderteken ik met, Jezus van de Bijbel en Meester van de Goddelijke Hemelen.

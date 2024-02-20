@@ -29,6 +29,4 @@ Het enige teken waarop ik wachtte was de ontheiliging van de Tempel, voorspeld i
 
 Ik wist ook dat uit het leven van Jeremia en zijn moeiten en uit de profetieën van Jesaja en Daniël, dat ik zou worden gedood, maar dat dit zou komen als gevolg van de zonden van de mensheid en niet omdat ik voorbestemd was om gekruisigd te worden of omdat ik vrijwillig de zonden van de hele mensheid op me nam en de mensheid van de zonde redde door met mijn bloed de straf voor de zonde te betalen.
 
-Nu weet ik dat dit is wat onderwezen wordt, maar het is echt onjuist en vindt geen enkele basis in feiten. Ik zal nu stoppen, want het is laat en je moet gaan slapen. Dus, met mijn liefde voor jou en de Dokter, en voor al mijn werkers, zeg ik goede nacht en teken ik met,
-
-Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
+Nu weet ik dat dit is wat onderwezen wordt, maar het is echt onjuist en vindt geen enkele basis in feiten. Ik zal nu stoppen, want het is laat en je moet gaan slapen. Dus, met mijn liefde voor jou en de Dokter, en voor al mijn werkers, zeg ik goede nacht en teken ik met, Jezus van de Bijbel en Meester van de Goddelijke Hemelen.

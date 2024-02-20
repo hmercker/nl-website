@@ -39,6 +39,4 @@ Nooit heb ik verklaard dat ik als een bewuste entiteit had bestaan vóór Abraha
 
 Je ziet dus dat veel passages in het Evangelie van Johannes teksten bevatten die nooit uit zijn pen kwamen, maar uit die van latere personen die in zijn Evangelie veel uitspraken en ideeën opnamen die ons eenvoudigweg naar latere stadia in de ontwikkeling van de vroegchristelijke religie brengen.
 
-Ik denk dat ik je meer heb geschreven dan ik gewend ben te doen, maar omdat je vol verlangen was en in staat om deze boodschap te ontvangen, schreef ik je graag. Ik moet je vragen meer te bidden voor de Liefde van de Vader en meer contact te houden met Zijn grote Ziel. En met mijn liefde voor jou en de Dokter sluit ik af en bevestig dat ik je oudere broer en vriend ben,
-
-Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
+Ik denk dat ik je meer heb geschreven dan ik gewend ben te doen, maar omdat je vol verlangen was en in staat om deze boodschap te ontvangen, schreef ik je graag. Ik moet je vragen meer te bidden voor de Liefde van de Vader en meer contact te houden met Zijn grote Ziel. En met mijn liefde voor jou en de Dokter sluit ik af en bevestig dat ik je oudere broer en vriend ben, Jezus van de Bijbel en Meester van de Goddelijke Hemelen.

@@ -41,6 +41,4 @@ Deze geschriften van Johannes zijn juist, in die zin dat ze laten zien dat Liefd
 
 Ik heb je vanavond over dit onderwerp geschreven vanwege je verlangen om bevestiging te krijgen over de waarheden van bepaalde gedeelten uit het Evangelie van Johannes die uitleg nodig hadden, en omdat je voelde dat ze dicht bij de waarheid stonden, zo niet deze bezaten; en ik zal nog eens terugkomen en je schrijven over meer materiaal in de Evangeliën dat oorspronkelijk over mijn leringen van de Goddelijke Liefde ging, voordat ze eruit werden geschrapt of zo verminkt dat ze onherkenbaar werden.
 
-Ik denk dat ik genoeg geschreven heb voor vanavond, en dus zeg ik jou en de Dokter goede nacht, en met mijn liefde en zegeningen voor hem en voor jou sluit ik af en onderteken ik als je vriend en oudere broer,
-
-Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
+Ik denk dat ik genoeg geschreven heb voor vanavond, en dus zeg ik jou en de Dokter goede nacht, en met mijn liefde en zegeningen voor hem en voor jou sluit ik af en onderteken ik als je vriend en oudere broer, Jezus van de Bijbel en Meester van de Goddelijke Hemelen.

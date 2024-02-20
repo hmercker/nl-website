@@ -36,4 +36,5 @@ Hen staat een verschrikkelijk ontwaken te wachten. De Spiritualist die ook chris
 Dus de bevrediging van de intellectuele verlangens van de Spiritualist of de wetenschappelijk ingestelde Christen, of het verlangen van ouders en kinderen om getroost te worden over het lot van hun dierbaren die zij aan de dood verloren hebben, heeft geen invloed op de Goddelijke Liefde, of de manier waarop die verkregen kan worden.
 
 Dit zijn dus de redenen waarom Christenen en Spiritualisten geen begrip kunnen opbrengen voor de Goddelijke Liefde, en zolang zij alleen dit soort religie aanhangen, zullen zij die waarschijnlijk ook niet kunnen verwerven.
+
 Jezus van de Bijbel en Meester van de Goddelijke Hemelen.

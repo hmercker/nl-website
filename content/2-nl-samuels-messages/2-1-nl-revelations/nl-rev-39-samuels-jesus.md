@@ -35,9 +35,7 @@ Dit zou voldoende moeten zijn om aan te tonen dat Gods Goddelijke Natuur niet in
 
 Ik denk dat ik voor vanavond genoeg heb gezegd over deze Bijbelse onderwerpen, waarvan het niet mijn bedoeling was om het laatste te bespreken, tenzij je erom vroeg; en met mijn liefde voor jou en Dokter Stone, en met mijn liefde en zegeningen over jullie beiden, sluit ik af en zeg ik goede nacht.
 
-Je oudere broer en vriend,
-
-Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
+Je oudere broer en vriend, Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
 <small>
 
 [^1]: Deze tekst is vertaald overeenkomstig uit de KJV afkomstige tekst. In verband met de opmerkingen over deze passage is niet gekozen voor de tekst van de NBV, die luidt: 'U weet toch dat u een tempel van God bent en dat de Geest van God in uw midden woont?'

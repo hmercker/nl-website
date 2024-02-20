@@ -31,8 +31,7 @@ In de eerste plaats moet je weten dat je werk noodzakelijkerwijs niet anders dan
 
 Maar ik wil jullie beiden [^1] laten weten dat we aan het werk zijn en toekijken en dat we ervoor zullen zorgen dat als de zaden worden geplant, er ook zaden zullen zijn die wortelschieten en groeien en uiteindelijk een plant voortbrengen die gevuld is met een ziel die verlangt naar de Liefde en de Onsterfelijkheid van de Vader. Wanhoop dus niet, maar blijf tot de Vader bidden om Zijn Liefde en Hij en Zijn Hemelse Legerscharen zullen jullie leiden en werken aan het succes naar aanleiding van de inspanningen die jullie leveren om de mens tot Hem en Zijn Koninkrijk te doen keren.
 
-Ik stop hier met mijn zegeningen over jullie allen en onderteken met
-Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
+Ik stop hier met mijn zegeningen over jullie allen en onderteken met Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
 <small>
 
 [^1]: [Dr. Daniel G. Samuels](/2-nl-samuels-messages/2-4-nl-who-was-samuels/) en [ds. John Paul Gibson](/10-nl-divine-love-community/10-4-nl-history-of-dl-communities/10-4-1-2-nl-gibson-floater/).

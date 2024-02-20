@@ -33,9 +33,7 @@ Ik dacht dat ik je over deze dingen moest schrijven, omdat mijn vroege leven dat
 
 Ik zal nu stoppen en goede nacht zeggen, maar niet voordat ik mijn goede vriend de Dokter heb begroet en jullie beiden met mijn liefde heb gezegend en de Vader heb gebeden Zijn Goddelijke Liefde in prachtige porties tot jullie te zenden.
 
-Jullie vriend en oudere broer, die van jullie beiden houdt en jullie aanspoort te blijven bidden om de Goddelijke Liefde,
-
-Jezus van de Bijbel.
+Jullie vriend en oudere broer, die van jullie beiden houdt en jullie aanspoort te blijven bidden om de Goddelijke Liefde, Jezus van de Bijbel.
 <small>
 
 Opmerkingen: Verdere informatie met betrekking tot de drie wijzen werd later van Jezus ontvangen. Er bestaat ook een meer volledige versie van de gebeurtenissen die door Judas zijn gedetailleerd: [De drie wijzen en de ster van Bethlehem](/4-nl-contemporary-messages/4-1-nl-cont-messages-by-date/4-1-5-nl-messages-2001/nl-2001-11-20-1-hr-judas/).

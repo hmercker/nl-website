@@ -30,6 +30,4 @@ En veel van de uitspraken waaruit blijkt dat ik gekomen was om aan het kruis te 
 Nee, ik ben geen verlosser omdat ik het kruis verkoos boven het verloochenen van mijn Messianiteit en mijn God. Ik volvoerde gewoon mijn missie tot het einde. En ik zou Jezus, de Christus, niet zijn als ik niet tot het einde had volgehouden. Mijn kruisiging was het gevolg van de zonde in de wereld die ik door mijn leer was komen vernietigen; en uiteindelijk zal de zonde worden vernietigd en zal de mens zich tot de Liefde van de Vader wenden en een Goddelijke Engel worden, of als een gezuiverde ziel leven in het Paradijs van de eerste ouders vóór hun val.
 Ik denk dat dit de goede Dokter tevreden moet stellen wat betreft de vragen die hij me stelde, en dus, met mijn liefde voor hem en voor jou, die ik aanspoor om de Liefde van de Vader meer en meer in overvloed te zoeken om zinnelijke gedachten te elimineren en dichter bij de Vader te komen, zal ik stoppen en goede nacht zeggen.
 
-Je oudere broer en vriend,
-
-Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
+Je oudere broer en vriend, Jezus van de Bijbel en Meester van de Goddelijke Hemelen.

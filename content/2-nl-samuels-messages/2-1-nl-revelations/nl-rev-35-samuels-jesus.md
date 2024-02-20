@@ -31,6 +31,4 @@ Toen ik zei: *"Wie gereinigd is, hoeft niet, behalve zijn voeten te wassen, maar
 
 Ik denk dat ik je een vrij lang bericht heb geschreven, en daarom onderteken ik met mijn liefde voor jou en de Dokter, en met de mededeling dat we allemaal proberen je te helpen in je financiële en huishoudelijke zaken.
 
-Je oudere broer en vriend,
-
-Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
+Je oudere broer en vriend, Jezus van de Bijbel en Meester van de Goddelijke Hemelen.

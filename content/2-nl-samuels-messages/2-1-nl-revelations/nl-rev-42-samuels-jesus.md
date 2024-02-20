@@ -35,8 +35,4 @@ Van deze profeten kon het volk leren dat God rechtvaardigheid en barmhartigheid 
 
 Ik denk dat ik genoeg geschreven heb voor vanavond en ik zal nog terugkomen om te laten zien hoe latere profeten hogere opvattingen van Gods Goedheid en Barmhartigheid openbaarden en uiteindelijk leidden tot een periode waarin een Nieuw Verbond zou worden gesloten met Israël door middel van een wet die hoger is dan die van rechtvaardig gedrag voor mensen - de Wet van Goddelijke Liefde, of Genade, zoals die door de christelijke kerken wordt genoemd.
 
-Ik stop nu, en spoor jou en de Dokter aan om in alle ernst te zoeken naar de Goddelijke Liefde door welgemeend gebed. Dus met mijn zegeningen en liefde zeg ik goede nacht en onderteken ik met je vriend en oudere broer,
-
-Jezus van de Bijbel,
-
-die je aanspoort om te blijven bidden en steeds meer vertrouwen te hebben in mij en in de Hemelse Vader en je te blijven verdiepen in de Schriften, waardoor ik vervolgens makkelijker mijn gedachten daarover via je brein kan overbrengen.
+Ik stop nu, en spoor jou en de Dokter aan om in alle ernst te zoeken naar de Goddelijke Liefde door welgemeend gebed. Dus met mijn zegeningen en liefde zeg ik goede nacht en onderteken ik met je vriend en oudere broer, Jezus van de Bijbel, die je aanspoort om te blijven bidden en steeds meer vertrouwen te hebben in mij en in de Hemelse Vader en je te blijven verdiepen in de Schriften, waardoor ik vervolgens makkelijker mijn gedachten daarover via je brein kan overbrengen.

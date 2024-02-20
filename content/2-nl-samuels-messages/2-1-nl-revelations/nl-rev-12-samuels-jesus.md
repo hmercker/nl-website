@@ -35,8 +35,7 @@ Het is een feit dat mijn komst niets te maken had met een zogenaamde oordeelsdag
 
 Zie je, hoe onjuist deze aan Johannes toegeschreven uitspraken zijn en hoe verkeerd zij begrepen worden en een verkeerde voorstelling geven van mij en mijn missie op aarde?
 
-Ik weet dat je deze twijfels had over deze passages in het evangelie van Johannes en ik ben heel blij dat ik je daarover kan schrijven. Blijf deze twijfels dus noteren terwijl je de evangeliën bestudeert en ik zal je schrijven over de waarheid ervan. Ik stop nu en met mijn liefde voor jou en Dokter Stone zeg ik goede nacht, je vriend en oudere broer,
-Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
+Ik weet dat je deze twijfels had over deze passages in het evangelie van Johannes en ik ben heel blij dat ik je daarover kan schrijven. Blijf deze twijfels dus noteren terwijl je de evangeliën bestudeert en ik zal je schrijven over de waarheid ervan. Ik stop nu en met mijn liefde voor jou en Dokter Stone zeg ik goede nacht, je vriend en oudere broer, Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
 <small>
 
 [^1]: Zie noot 2 bij Openbaring 11. Het zal duidelijk zijn dit Een-Zijn (At-onement) gepaard gaat met verzoening (atonement) met de Vader.

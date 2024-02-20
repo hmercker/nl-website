@@ -29,6 +29,4 @@ Ik heb nooit gezegd dat ik Abraham had gezien, noch heb ik gezegd dat ik ben voo
 
 Voor vanavond zal ik niet meer schrijven, maar gezien de omstandigheden denk ik dat je in goede staat hebt kunnen ontvangen wat ik heb geprobeerd over te brengen. En dus, met al mijn liefde voor jou en Dokter Stone, en met mijn gebeden dat je meer tot de Vader bidt om Zijn Liefde en bemoediging, zeg ik goede nacht.
 
-Je vriend en oudere broer,
-
-Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
+Je vriend en oudere broer, Jezus van de Bijbel en Meester van de Goddelijke Hemelen.

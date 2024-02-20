@@ -34,5 +34,6 @@ Ik kan je in dit bericht niet schrijven over al deze onwaarheden en het zou ook 
 Ik denk dat ik genoeg heb geschreven over het onderwerp van de "Oahspe Bijbel" en het was passend dat ik dat deed, al was het alleen maar om enkele van de fouten aan te geven die er overal in voorkomen, en om ook het relatieve belang ervan aan te geven, en ik verzoek je dringend je tijd niet te besteden aan het lezen van dit lijvige werk, want het leidt niet, zoals ik heb uitgelegd, tot de Liefde van de Vader door zielsverlangen en gebed. Dat is het belangrijkste dat verkregen moet worden en dat is waar ik je dringend toe aanspoor om te blijven zoeken: de Liefde van de Vader en de verzoening met Hem. Dus met mijn liefde voor jou en de Dokter zal ik afsluiten en onderteken met
 
 Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
+<small>
 
 [^1]: Het medium was John Ballou Newbrough, een Amerikaanse tandarts, die in 1880 tot 1882 begon met het schrijven van het 900 pagina's tellende boek, door middel van automatisch schrift op de toen pas net uitgevonden typemachine. Hij was geboren op 5 juni 1828, in de buurt van Springfield, Ohio, als zoon van een schoolmeester. Hij overleed 22 april 1891, Las Cruces, New Mexico.

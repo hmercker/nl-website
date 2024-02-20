@@ -23,9 +23,7 @@ En bovendien zijn er mensen die ten onrechte geloven dat het koninkrijk van God 
 
 Zodat Christus in je hebben betekent dat de Goddelijke Liefde van de Vader in je ziel woont. En als je de brief van Johannes de apostel zult lezen, zul je de waarheid begrijpen van het gezegde dat het Koninkrijk van God in je is - want Johannes zei (I Johannes, hoofdstuk 4, verzen 10-12 en 16): *"Hierin ligt de Liefde, niet dat wij God hebben liefgehad, maar dat Hij ons heeft liefgehad. - als wij elkaar liefhebben met deze Goddelijke Liefde, woont God in ons. God is Liefde en wie in deze Liefde woont, woont in God en God in hem."*... Johannes maakte duidelijk dat toen hij over liefde sprak, hij Gods Liefde bedoelde - Gods Goddelijke Liefde voor de mens, en dat waar Zijn Goddelijke Liefde is, daar ook God is en daar is het Koninkrijk van God. Ja, het Koninkrijk van God kan in ons wonen, maar alleen als we het zoeken door ernstig verlangen en bidden tot de Vader om de gave van Zijn Goddelijke Liefde - en met Zijn Liefde komt het eeuwige leven en alles wat nodig is om het in deze wereld en in de volgende te onderhouden.
 
-Ik heb genoeg gezegd over het gezegde "het Koninkrijk van God in jou" en wat het werkelijk betekent, en dus, met mijn liefde voor jou en Dokter Stone en jullie allen aansporend om het Koninkrijk te zoeken door ernstig zielsverlangen naar de Vader, zeg ik nu goede nacht en onderteken met
-
-Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
+Ik heb genoeg gezegd over het gezegde "het Koninkrijk van God in jou" en wat het werkelijk betekent, en dus, met mijn liefde voor jou en Dokter Stone en jullie allen aansporend om het Koninkrijk te zoeken door ernstig zielsverlangen naar de Vader, zeg ik nu goede nacht en onderteken met Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
 <small>
 
 [^1]: In een recent bericht wordt uitgelegd dat deze "betekenis" betrekking heeft op dit geval. Want "entos" heeft twee betekenissen.

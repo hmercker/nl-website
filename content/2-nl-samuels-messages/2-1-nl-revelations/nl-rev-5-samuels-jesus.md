@@ -39,6 +39,4 @@ Daarom stelde ik dat hun verwerping van mij als de Messias, op grond van het fei
 
 Ik heb nooit gezegd dat ik de Goede Herder was, want dat verwees naar de Vader, en deze uitspraak werd vele jaren na mijn dood ingevoegd, om mij te verheffen tot gelijkwaardig aan God. In plaats daarvan stelde ik dat de Vader de Goede Herder is - de schaapskooi is het Koninkrijk der Hemelen, en dat ik de deur was waardoor de schapen in de schaapskooi kwamen en in de aanwezigheid en kennis van de Herder, of de Portier, die de deur opent en de Vader is. De Vader geeft Eeuwig leven aan Zijn schapen, en Ik ben de weg, de deur, waardoor de schapen de schaapskooi van het eeuwige leven kunnen binnengaan. In de Psalmen werd erop gewezen dat de Goede Herder, God, David, of, beter gezegd, een spruit van David, zou gebruiken als helper om de schapen in de schaapskooi te brengen.
 
-Ik denk dat ik genoeg heb gezegd over dit onderwerp en veel dingen heb uitgelegd die onduidelijk zijn in het Nieuwe Testament, en met mijn zegeningen over jou en de Dokter, en over al mijn discipelen die het werk van de Vader doen, zal ik stoppen en ondertekenen met
-
-Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
+Ik denk dat ik genoeg heb gezegd over dit onderwerp en veel dingen heb uitgelegd die onduidelijk zijn in het Nieuwe Testament, en met mijn zegeningen over jou en de Dokter, en over al mijn discipelen die het werk van de Vader doen, zal ik stoppen en ondertekenen met Jezus van de Bijbel en Meester van de Goddelijke Hemelen.

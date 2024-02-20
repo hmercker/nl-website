@@ -55,6 +55,4 @@ Hoewel ik het niet met zekerheid weet, ben ik er door de Oneindige Liefde van de
 
 Ik stop op dit punt over dit onderwerp, en vertrouw erop dat jij en de Dokter zullen begrijpen dat we onze hoop en vertrouwen moeten stellen in de Liefde van de Vader, en dat als we berouwvol en verlangend naar Zijn vergeving tot Hem komen, we nooit teleurgesteld zullen worden.
 
-Je oudere broer en vriend,
-
-Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
+Je oudere broer en vriend, Jezus van de Bijbel en Meester van de Goddelijke Hemelen.

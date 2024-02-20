@@ -31,6 +31,4 @@ De mensheid heeft de keuze, in het vlees of in de geest, om te besluiten ofwel t
 
 Ik denk dat ik hiermee het onderwerp van de vrije wil en de bestemming van de mens heb behandeld, zoals het in sommige van de aan Johannes toegeschreven geschriften wordt afgewezen. Maar het onderwerp is belangrijk voor het zoeken van de mens, uit vrije wil, naar de Liefde van de Vader, en ik kom misschien binnenkort terug om nog te wijzen op andere soortgelijke onwaarheden in Johannes en in andere evangeliën.
 
-Ik dank je dus dat ik vanavond mocht schrijven en ik sluit af met de opmerking dat ik je vriend en oudere broer ben,
-
-Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
+Ik dank je dus dat ik vanavond mocht schrijven en ik sluit af met de opmerking dat ik je vriend en oudere broer ben, Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
