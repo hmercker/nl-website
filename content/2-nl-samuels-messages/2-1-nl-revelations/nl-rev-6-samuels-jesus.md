@@ -31,7 +31,7 @@ De Geest van God is Gods grote engel of boodschapper die zich gedurende alle eeu
 
 Adam en Eva, of wie zij vertegenwoordigen, werden geschapen door de werking van de Geest van God, Gods actieve energie, die de groepering van die elementen tot stand bracht die gebruikt werden om de mens te vormen, zoals Hij de andere levende wezens op aarde vormde, maar de mens was geen mens, totdat het zuiver geestelijke - en daarmee bedoel ik niet het geestelijk lichaam, dat van gesublimeerde materie is, maar de ziel, naar Gods gelijkenis - aan de mens werd geschonken. De eerste ouders weten niet wanneer zij zielen werden, dat wil zeggen, wanneer God daadwerkelijk zielen in hen inbracht, want er is geen manier om te vertellen wanneer zij uiterlijk mens waren zonder hun zielen, want zonder hun ziel was het geheugen van dien aard dat zo'n feit of toestand niet door hen kon worden herinnerd, noch weten zij hoe dit inbrengen van de ziel plaatsvond, ook al geschiedde het in hun lichaam. En ook ik zeg: ik weet ook niet hoe het gebeurt, want ik heb nooit een ziel gezien, hoewel ik haar aanwezigheid kan waarnemen door mijn zintuigelijke waarneming. Maar toen het was volbracht, waren de eerste ouders zich ervan bewust dat zij mensen waren, en dat zij scheppingen van de Vader waren.
 
-Ontvangen op 8 september 1955:
+#### Ontvangen op 8 september 1955
 
 De mens, zoals hij gewoonlijk wordt beschouwd, is een schepping die een lange periode van ontwikkeling heeft doorgemaakt, zoals al Gods schepselen in die periode van ontwikkeling van de aarde, waardoor levende wezens konden ontstaan en overleven.
 
