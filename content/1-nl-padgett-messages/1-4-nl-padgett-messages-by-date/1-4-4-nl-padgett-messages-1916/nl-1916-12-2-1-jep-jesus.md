@@ -28,8 +28,7 @@ Laat je gebed als volgt zijn:
 > Dat wij de grootste van Uw scheppingen zijn en het prachtigste van al Uw handwerken, en dat wij de voorwerpen zijn van de liefde en de tederste zorg van Uw grote Ziel.
 <br>
 <br>
-<a id="prayer-link-1"></a>
-> Dat Uw wil is dat wij één worden met U en deel krijgen aan Uw grote liefde die Gij ons geschonken hebt door Uw barmhartigheid en verlangen dat wij in waarheid Uw kinderen worden; en niet door het offer en de dood van een van Uw schepselen, ook al denkt de wereld dat die Uw gelijke is en deel uitmaakt van Uw godheid.
+> <a id="prayer-link-1"></a> Dat Uw wil is dat wij één worden met U en deel krijgen aan Uw grote liefde die Gij ons geschonken hebt door Uw barmhartigheid en verlangen dat wij in waarheid Uw kinderen worden; en niet door het offer en de dood van een van Uw schepselen, ook al denkt de wereld dat die Uw gelijke is en deel uitmaakt van Uw godheid.
 <br>
 <br>
 > Dat Gij onze zielen opent voor de instroom van Uw liefde, en dat dan Uw heilige Geest zal komen om in onze zielen Uw liefde in grote overvloed te brengen, totdat onze zielen zullen worden getransformeerd tot het wezen van Uzelf; en dat er geloof tot ons zal komen - een geloof dat ons zal doen beseffen dat we werkelijk Uw kinderen zijn en dat we één zijn met U in wezen en niet alleen in beeld.
