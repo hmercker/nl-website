@@ -38,6 +38,6 @@ Ik denk dat ik genoeg heb geschreven over de kardinale punten die in deze preek 
 Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
 <small>
 
-[^1]: Noot van de vertaler: In de Engelse tekst wordt hier gesproken van "At-onement", een woordspeling die uitsluitend in de Engelse taal mogelijk is met het woord "atonement", hetgeen "verzoening" betekent.
+[^1]: <a id="noot-1-preek-1"></a> Noot van de vertaler: In de Engelse tekst wordt hier gesproken van "At-onement", een woordspeling die uitsluitend in de Engelse taal mogelijk is met het woord "atonement", hetgeen "verzoening" betekent.
 
 [^2]: Foundation Church of New Birth.
