@@ -27,7 +27,7 @@ Het verdriet verstikt me, Jonatan,
 Jij was mijn broeder, en mijn beste vriend.  
 Jouw liefde was mij dierbaar, meer dan die van vrouwen.  
 Ach, dat de helden moesten vallen,  
-Dat die wapens van Israël verloren moesten gaan! - (2 Samuel 1: 25 - 27) (NBV21)
+Dat die wapens van Israël verloren moesten gaan! - (2 Samuel 1: 25 - 27)(NBV21)
 
 Wat betreft de dood van Saul voelde David dat dit een straf van God was, en een rechtvaardiging van zijn eigen ethisch gedrag, dat het hem niet gegeven was Gods gezalfde heerser over Israël te vernietigen, ook al was hij erop uit hem te doden. Want als voortvluchtige kon David het kampement van Saul binnendringen en zijn speer pakken terwijl de koning lag te slapen. En toen Abisai, de broer van Joab, klaarstond om hem te doden, hield David hem tegen:
 
@@ -36,7 +36,7 @@ Niemand heft ongestraft zijn hand op tegen de gezalfde van de HEER.
 Zo waar de HEER leeft, hijzelf zal Saul treffen:  
 hetzij doordat hij een natuurlijke dood sterft wanneer zijn tijd gekomen is,  
 hetzij doordat hij ten oorlog trekt en sneuvelt.  
-De HEER verhoede dat ik mijn hand ophef tegen zijn gezalfde! - (1 Samuel 26: 9 - 11) (NBV21)
+De HEER verhoede dat ik mijn hand ophef tegen zijn gezalfde! - (1 Samuel 26: 9 - 11)(NBV21)
 
 Hier was zo'n geloof in God dat hij niet kon begaan wat hij voelde als een misdaad tegen Gods vertegenwoordiger. Toegegeven, dit is niet de hoogste ethiek, want de zuivere ziel kan geen leven nemen, zelfs niet zoals in de Tien Geboden van Mozes staat, omdat het een Wet van God is, en er is geen haat of gedachte aan wraak in de zuivere ziel, ongeacht wie de persoon mag zijn die verwondt of overtreedt. Toch werkte dit geloof in God met grote kracht in David, want doordat hij de straf naar de Vader verwees, kon David haat en wraak uit zichzelf verwijderen, en kon hij Gods Wet: *"Gij zult niet doden"* naleven. Zodat Davids klaagzang over Saul er niet een was van blijdschap over de nederlaag van een vijand, noch refereerde hij aan Sauls vijandschap en jaloezie; maar alleen een van verdriet dat de leider van Israël was omgekomen door zijn vijanden.
 

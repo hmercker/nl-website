@@ -34,4 +34,4 @@ Ik zal nu stoppen, want ik heb gezegd wat ik van plan was voor deze tweede preek
 Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
 <small>
 
-[^1]: Zie noot bij Preek 1.
+[^1]: Zie [noot 1 bij Preek 1](/2-nl-samuels-messages/2-2-nl-sermons/nl-ser-1-samuels-jesus/#noot-1-preek-1).

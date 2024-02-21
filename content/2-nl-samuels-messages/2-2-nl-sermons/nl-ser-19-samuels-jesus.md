@@ -134,11 +134,7 @@ Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
 
 [^5]: In de Engelse tekst wordt verwezen naar Psalm 18: 40. In de NBV21 is dat Psalm 18: 41.
 
-[^6]: In de Engelse tekst wordt verwezen naar Psalm 19: 1- 2. In de NBV21 is dat Psalm 19: 2 – 3. Voorts volgen in de Engelse tekst de woorden:
-(…) bij het zien van de maan en de sterren
-In hun banen, hebben wij kennis van Zijn wetten van de hemelen.
-
-De oorspronkelijke voetnoot in de Engelse tekst bij dit Bijbelcitaat luidde: Dit vers, Psalm 19:2, lijkt op, maar is geenszins identiek aan de K.J.V. (King James Version). Zonder toegang tot het oorspronkelijke bericht kan men niet zeker weten of Jezus een andere Bijbel citeert, of dat er een annotatie is gemaakt om het vers te verklaren.
+[^6]: In de Engelse tekst wordt verwezen naar Psalm 19: 1 - 2. In de NBV21 is dat Psalm 19: 2 – 3. Voorts volgen in de Engelse tekst de woorden: (…) bij het zien van de maan en de sterren In hun banen, hebben wij kennis van Zijn wetten van de hemelen. De oorspronkelijke voetnoot in de Engelse tekst bij dit Bijbelcitaat luidde: Dit vers, Psalm 19: 2, lijkt op, maar is geenszins identiek aan de K.J.V. (King James Version). Zonder toegang tot het oorspronkelijke bericht kan men niet zeker weten of Jezus een andere Bijbel citeert, of dat er een annotatie is gemaakt om het vers te verklaren.
 
 [^7]: In de Engelse tekst wordt verwezen naar Psalm 19: 5. In de NBV21 is dat Psalm 19: 6.
 

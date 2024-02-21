@@ -38,6 +38,6 @@ Ik denk dat ik voor vanavond genoeg heb gezegd over deze Bijbelse onderwerpen, w
 Je oudere broer en vriend, Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
 <small>
 
-[^1]: Deze tekst is vertaald overeenkomstig uit de KJV afkomstige tekst. In verband met de opmerkingen over deze passage is niet gekozen voor de tekst van de NBV, die luidt: 'U weet toch dat u een tempel van God bent en dat de Geest van God in uw midden woont?'
+**Opmerking:** Veel mensen zijn ontzet dat voorspeld wordt dat de "hemel" zal sluiten. Toch zegt de Bijbel dat, met als enige verschil dat we uit de Padgett Boodschappen weten dat het sluiten van de hemelen verwijst naar de Goddelijke hemelen, en dat het niet betekent dat degenen die erbuiten vallen in de hel zijn, integendeel. [Zie deze boodschap voor toelichting](/4-nl-contemporary-messages/4-1-nl-cont-messages-by-date/4-1-5-nl-messages-2001/nl-2001-9-3-1-hr-judas/).
 
-Opmerking: Veel mensen zijn ontzet dat voorspeld wordt dat de "hemel" zal sluiten. Toch zegt de Bijbel dat, met als enige verschil dat we uit de Padgett Boodschappen weten dat het sluiten van de hemelen verwijst naar de Goddelijke hemelen, en dat het niet betekent dat degenen die erbuiten vallen in de hel zijn, integendeel. [Zie deze boodschap voor toelichting](/4-nl-contemporary-messages/4-1-nl-cont-messages-by-date/4-1-5-nl-messages-2001/nl-2001-9-3-1-hr-judas/).
+[^1]: Deze tekst is vertaald overeenkomstig uit de KJV afkomstige tekst. In verband met de opmerkingen over deze passage is niet gekozen voor de tekst van de NBV, die luidt: 'U weet toch dat u een tempel van God bent en dat de Geest van God in uw midden woont?'
