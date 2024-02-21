@@ -107,8 +107,7 @@ In hetzelfde hoofdstuk geeft het verhaal van de ophanging van Sauls familie door
 Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
 <small>
 
-[^1]: In verband met goed begrip van Jezus’ toelichting, volgt hierna de vertaling uit de oorspronkelijk door Jezus gegeven Engelse tekst:
->De Heer is mijn rots, mijn vesting en mijn verlosser;  
+[^1]: In verband met goed begrip van Jezus’ toelichting, volgt hierna de vertaling uit de oorspronkelijk door Jezus gegeven Engelse tekst: > De Heer is mijn rots, mijn vesting en mijn verlosser;  
 De God van mijn rots; op Hem zal ik vertrouwen;  
 Hij is mijn schild en de hoorn van mijn redding,  
 Mijn hoge toren en mijn toevluchtsoord, Gij redt mij van geweld.  
@@ -127,26 +126,26 @@ Want zij waren te sterk voor mij. - (2 Samuel 22: 2 - 18)
 
 [^2]: Gelet op wat Jezus hier zegt over het gebruik van het woord 'tempel' (zie de tekst hierboven onder [1]), kan begrip opgebracht worden voor de Nederlandse vertaling in NBV21 waar gekozen is voor het woord 'paleis'. Bedoeld wordt uiteraard de woonplaats van God. Van oudsher bij de Joden het Tabernakel.
 
-[^3]: In verband met goed begrip van Jezus’ toelichting, volgt ook hier de vertaling uit de oorspronkelijk door Jezus gegeven Engelse tekst: >Ik zal U liefhebben, o Heer, mijn kracht.  
+[^3]: In verband met goed begrip van Jezus’ toelichting, volgt ook hier de vertaling uit de oorspronkelijk door Jezus gegeven Engelse tekst: > Ik zal U liefhebben, o Heer, mijn kracht.  
 De Heer is mijn rots en mijn vesting en mijn bevrijder;  
 Mijn God, mijn kracht, op wie ik zal vertrouwen;  
 Mijn gesp en de hoorn van mijn redding en mijn hoge toren.  
 Ik zal de Heer aanroepen, die het waard is geprezen te worden:  
 Zo zal ik gered worden van mijn vijanden.
 <br><br>
->De smarten van de dood omringden mij,  
+> De smarten van de dood omringden mij,  
 En de stromen van goddelozen maakten mij bang.  
 De smarten der hel omringden mij:  
 De strikken van de dood verhinderden mij.
 <br><br>
->In mijn benauwdheid riep ik de Heer aan,  
+> In mijn benauwdheid riep ik de Heer aan,  
 en riep tot mijn God;  
 Hij hoorde mijn stem uit zijn tempel,  
 En mijn geroep kwam voor Hem, tot in zijn oren.  
 
 In de Engelse tekst wordt verwezen naar Psalm 18: 16 - 17. In de NBV21 is dat Psalm 18: 17 – 18.
 
->Hij zond van boven, Hij nam mij,  
+> Hij zond van boven, Hij nam mij,  
 Hij trok mij uit vele wateren.  
 Hij verloste mij van mijn sterke vijand,  
 En van hen die mij haatten:  
