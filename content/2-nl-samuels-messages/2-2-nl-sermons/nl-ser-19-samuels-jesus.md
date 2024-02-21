@@ -124,7 +124,7 @@ Op dit punt wil ik melding maken van het gebruik dat sommige kerkleden hebben ge
 Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
 <small>
 
-[^1]: Zie [noot 1 bij Preek 1](nl-website/content/2-nl-samuels-messages/2-2-nl-sermons/nl-ser-1-samuels-jesus/#noot-1-preek-1).
+[^1]: Zie [noot 1 bij Preek 1](/2-nl-samuels-messages/2-2-nl-sermons/nl-ser-1-samuels-jesus/#noot-1-preek-1).
 
 [^2]: In de Engelse tekst wordt verwezen naar Psalm 18: 1 - 2. In de NBV21 is dat Psalm 18: 2 – 3.
 
