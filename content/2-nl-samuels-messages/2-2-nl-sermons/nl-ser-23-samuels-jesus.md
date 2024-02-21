@@ -66,7 +66,7 @@ mijn roepen bereikte zijn oren. - (Psalm 18: 1 – 6) (NBV21) [^3]
 > Hij bood hulp van omhoog, greep mij vast.  
 en trok mij op uit de woeste wateren,  
 ontrukte mij aan mijn machtige vijand,  
-aan mijn haters, die sterker waren dan ik. - (Psalm 18: 17 - 18) (NBV21) [^3]
+aan mijn haters, die sterker waren dan ik. - (Psalm 18: 17 - 18) (NBV21) [^4]
 
 Nu gaat het mij niet om dit werk, want mijn doel is eerder om Davids liefde voor de Vader te laten zien door zijn geschriften, zoals ik zijn vriendelijkheid voor mensen heb laten zien in zijn gedrag als koning. Ongeacht de verschillen springt één ding krachtig in het oog: zijn vertrouwen in de Vader in tijd van nood. Dit grote vertrouwen in God kwam vele malen tot uitdrukking in zijn psalmen, en ik herhaal, het werd in latere tijden door andere psalmisten bewerkt.
 
@@ -107,46 +107,11 @@ In hetzelfde hoofdstuk geeft het verhaal van de ophanging van Sauls familie door
 Jezus van de Bijbel en Meester van de Goddelijke Hemelen.
 <small>
 
-[^1]: In verband met goed begrip van Jezus’ toelichting, volgt hierna de vertaling uit de oorspronkelijk door Jezus gegeven Engelse tekst: > De Heer is mijn rots, mijn vesting en mijn verlosser;  
-De God van mijn rots; op Hem zal ik vertrouwen;  
-Hij is mijn schild en de hoorn van mijn redding,  
-Mijn hoge toren en mijn toevluchtsoord, Gij redt mij van geweld.  
-Toen de golven van de dood mij omringden,  
-De stromen van goddeloze mensen mij vrees aanjoegen;  
-De smarten van de hel mij omringden,  
-De strikken van de dood mij tegenhielden;  
-Riep ik in mijn nood de Heer aan, en riep tot mijn God;  
-En Hij hoorde mijn stem uit zijn tempel,  
-En mijn geroep kwam in zijn oren.  
-Hij zond van boven, Hij nam mij;  
-Hij trok mij uit vele wateren;  
-Hij verloste mij van mijn sterke vijand,  
-En van hen die mij haatten;  
-Want zij waren te sterk voor mij. - (2 Samuel 22: 2 - 18)
+[^1]: In verband met goed begrip van Jezus’ toelichting, volgt hierna de vertaling uit de oorspronkelijk door Jezus gegeven Engelse tekst: De Heer is mijn rots, mijn vesting en mijn verlosser; De God van mijn rots; op Hem zal ik vertrouwen; Hij is mijn schild en de hoorn van mijn redding, Mijn hoge toren en mijn toevluchtsoord, Gij redt mij van geweld. Toen de golven van de dood mij omringden, De stromen van goddeloze mensen mij vrees aanjoegen; De smarten van de hel mij omringden, De strikken van de dood mij tegenhielden; Riep ik in mijn nood de Heer aan, en riep tot mijn God; En Hij hoorde mijn stem uit zijn tempel, En mijn geroep kwam in zijn oren. Hij zond van boven, Hij nam mij; Hij trok mij uit vele wateren; Hij verloste mij van mijn sterke vijand, En van hen die mij haatten; Want zij waren te sterk voor mij. - (2 Samuel 22: 2 - 18)
 
 [^2]: Gelet op wat Jezus hier zegt over het gebruik van het woord 'tempel' (zie de tekst hierboven onder [1]), kan begrip opgebracht worden voor de Nederlandse vertaling in NBV21 waar gekozen is voor het woord 'paleis'. Bedoeld wordt uiteraard de woonplaats van God. Van oudsher bij de Joden het Tabernakel.
 
-[^3]: In verband met goed begrip van Jezus’ toelichting, volgt ook hier de vertaling uit de oorspronkelijk door Jezus gegeven Engelse tekst: > Ik zal U liefhebben, o Heer, mijn kracht.  
-De Heer is mijn rots en mijn vesting en mijn bevrijder;  
-Mijn God, mijn kracht, op wie ik zal vertrouwen;  
-Mijn gesp en de hoorn van mijn redding en mijn hoge toren.  
-Ik zal de Heer aanroepen, die het waard is geprezen te worden:  
-Zo zal ik gered worden van mijn vijanden.
-<br><br>
-> De smarten van de dood omringden mij,  
-En de stromen van goddelozen maakten mij bang.  
-De smarten der hel omringden mij:  
-De strikken van de dood verhinderden mij.
-<br><br>
-> In mijn benauwdheid riep ik de Heer aan,  
-en riep tot mijn God;  
-Hij hoorde mijn stem uit zijn tempel,  
-En mijn geroep kwam voor Hem, tot in zijn oren.  
+[^3]: In verband met goed begrip van Jezus’ toelichting, volgt ook hier de vertaling uit de oorspronkelijk door Jezus gegeven Engelse tekst: Ik zal U liefhebben, o Heer, mijn kracht. De Heer is mijn rots en mijn vesting en mijn bevrijder; Mijn God, mijn kracht, op wie ik zal vertrouwen; Mijn gesp en de hoorn van mijn redding en mijn hoge toren. Ik zal de Heer aanroepen, die het waard is geprezen te worden:  
+Zo zal ik gered worden van mijn vijanden. De smarten van de dood omringden mij, En de stromen van goddelozen maakten mij bang. De smarten der hel omringden mij: De strikken van de dood verhinderden mij. In mijn benauwdheid riep ik de Heer aan, en riep tot mijn God; Hij hoorde mijn stem uit zijn tempel, En mijn geroep kwam voor Hem, tot in zijn oren. In de Engelse tekst wordt verwezen naar Psalm 18: 16 - 17. In de NBV21 is dat Psalm 18: 17 – 18.
 
-In de Engelse tekst wordt verwezen naar Psalm 18: 16 - 17. In de NBV21 is dat Psalm 18: 17 – 18.
-
-> Hij zond van boven, Hij nam mij,  
-Hij trok mij uit vele wateren.  
-Hij verloste mij van mijn sterke vijand,  
-En van hen die mij haatten:  
-Want zij waren te sterk voor mij. - (Psalm 18: 1 - 6, 16 - 17)
+[^4]: Hij zond van boven, Hij nam mij, Hij trok mij uit vele wateren. Hij verloste mij van mijn sterke vijand, En van hen die mij haatten: Want zij waren te sterk voor mij. - (Psalm 18: 1 - 6, 16 - 17)

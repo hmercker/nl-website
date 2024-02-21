@@ -22,7 +22,7 @@ Nu werd Davids concept van God op vele manieren uitgedrukt. Hij stelde Hem, in P
 Ik heb U lief, HEER, mijn sterkte,
 HEER, mijn rots, mijn vesting, mijn bevrijder,
 God, mijn steenrots, bij U kan ik schuilen,
-Mijn schild, kracht die mij redt, mijn burcht. - (Psalm 18: 2 - 3) [^2] (NBV21)
+Mijn schild, kracht die mij redt, mijn burcht. - (Psalm 18: 2 - 3)(NBV21) [^2]
 
 Maar het verschil tussen een oude oorlogsgod uit de Vruchtbare Halve Maan en Davids God was natuurlijk gewoon dat de laatste een God van gerechtigheid was, die barmhartigheid toont aan hen die zijn voorschriften voor ethisch gedrag gehoorzamen:
 
