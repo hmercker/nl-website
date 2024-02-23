@@ -23,5 +23,5 @@ Jezus | [Het Oude en het Nieuwe Verbond](/2-nl-samuels-messages/2-3-nl-diverse-m
 Jezus | [De ziel bij diens Schepping, Ontwikkeling & Dematerialisatie](/2-nl-samuels-messages/2-3-nl-diverse-messages/nl-10-25-july-1961-20-april-1962-samuels-jesus/) | 25 juli 1961 & 20 april 1962
 Jezus | [De ziel van een kind](/2-nl-samuels-messages/2-3-nl-diverse-messages/nl-11-undated-samuels-jesus/) | geen datum
 Maria | [Jezus' geboorte en jeugd, zoals beschreven door Maria, Moeder van Jezus](/2-nl-samuels-messages/2-3-nl-diverse-messages/nl-12-1963-samuels-mary/) | 1963
-Jezus | [Legale huwelijken, echtscheiding, overspel, geboortebeperking en abortus](/2-nl-samuels-messages/2-3-nl-diverse-messages/nl-13-1961-4-1-samuels-jesus/) | 1 april 1961
-Joseph | [De vader van Jezus werd door sommige evangelieschrijvers Alfeüs genoemd](/2-nl-samuels-messages/2-3-nl-diverse-messages/nl-14-1954-11-2-samuels-joseph/) | 2 november 1954
+Jezus | [Wettige huwelijken, echtscheiding, overspel, geboortebeperking en abortus](/2-nl-samuels-messages/2-3-nl-diverse-messages/nl-13-1961-4-1-samuels-jesus/) | 1 april 1961
+Josef | [De vader van Jezus werd door sommige evangelieschrijvers Alfeüs genoemd](/2-nl-samuels-messages/2-3-nl-diverse-messages/nl-14-1954-11-2-samuels-joseph/) | 2 november 1954
