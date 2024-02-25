@@ -10,3 +10,9 @@ weight:
 ### Een bevestiging van zijn moeder
 
 Ann Padgett - ontvangen door James Padgett op 24 september 1914, Washington, DC, USA.
+
+Je hebt mijn zegen.
+
+Het was de Christus die sprak. Hij is je vriend en redder.
+
+Je moeder, Ann R. Padgett.

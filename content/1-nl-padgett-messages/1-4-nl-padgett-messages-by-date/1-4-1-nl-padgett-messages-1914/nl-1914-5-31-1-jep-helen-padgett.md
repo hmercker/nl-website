@@ -15,7 +15,7 @@ Hier ben ik, Helen.
 
 Ja, ik hou van je en dat weet je. Als jij naar bed gaat zal ik jou mijn armen om je nek laten voelen. Dan zal ik je omhelzen en in slaap wiegen zodat jij je de volgende morgen weer beter zult voelen.  
 
-(James vraagt: Was je bij de Bahai bijeenkomst?)  
+(James vraagt: Was je bij de Bahai bijeenkomst?)
 
 Ja, dat was ik. Ik had niet zo veel op met de lezing van die vrouw uit India, omdat ze niet vertelde wat de Liefde van God betekent voor de verloren mensenziel. Je had er niet veel aan, want je was erg eenzaam en had het nodig dat over de Liefde van God gesproken werd. De andere toespraak was beter, maar ook die vertelde niet over de Weg naar de Waarheid en het Licht, zoals de Bijbel doet. Wees een Christen en heb de God van de Bijbel lief.  
 

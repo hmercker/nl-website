@@ -10,3 +10,5 @@ weight:
 ### Een bevestiging van Helen
 
 Helen Padgett - ontvangen door James Padgett op 24 september 1914, Washington, DC, USA.
+
+Goede nacht. Ik hou van je, Helen.
