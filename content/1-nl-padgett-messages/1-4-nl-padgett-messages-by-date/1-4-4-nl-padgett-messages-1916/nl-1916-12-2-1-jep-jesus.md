@@ -59,6 +59,6 @@ Je broeder en vriend, Jezus.
 
 Er is een modernere versie van dit gebed [beschikbaar](/1-nl-padgett-messages/1-3-nl-padgett-messages-by-topic/1-3-6-1-nl-perfect-prayer/). Dit oorspronkelijke gebed werd vele jaren later ook subtiel gewijzigd in een boodschap via Dr. Samuels. De boodschap die verwijst naar de wijziging die op [26 september 1965](/1-nl-padgett-messages/1-2-nl-gospel-revealed-anew-by-jesus/1-2-5-nl-volume-4-1/1-2-5-1-nl-introduction-volume-4/) werd aangebracht, staat hier.
 
-Een afbeelding van het origineel van dit gebed staat hier. Een prachtig uitgevoerde video van Care Derby Walsh is [beschikbaar op YouTube](https://www.youtube.com/watch?v=m4WdGwt-X9A&t=14s):
+Een afbeelding van het origineel van dit gebed staat hier. Een prachtig uitgevoerde video van Care Darby Walsh is [beschikbaar op YouTube](https://www.youtube.com/watch?v=m4WdGwt-X9A&t=14s):
 
 Het geluidsspoor is beschikbaar als mp3-bestand. Het is echter vrij groot en daarom niet gelinkt via de website.
