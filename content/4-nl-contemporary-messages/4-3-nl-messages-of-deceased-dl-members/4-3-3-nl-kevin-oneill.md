@@ -9,4 +9,7 @@ weight:
 ---
 ### Kevin O'Neill
 
-![foto](/portraits/nl-kevin-oneill.jpg)
+<p style="text-align: center"><img src="/portraits/nl-kevin-oneill.JPG"></p>
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

@@ -8,3 +8,8 @@ hidden: True
 weight:
 ---
 ### Hans Henning Mercker
+
+<p style="text-align: center"><img src="/portraits/nl-hans-henning-mercker.JPG"></p>
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

@@ -9,4 +9,7 @@ weight:
 ---
 ### Barbara Davies
 
-![foto](/portraits/nl-barbara-davies.jpg)
+<p style="text-align: center"><img src="/portraits/nl-barbara-davies.JPG"></p>
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

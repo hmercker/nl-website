@@ -1,15 +1,15 @@
 ---
-title: "Catherine Koch"
+title: "Percy Hayes"
 menu_title: ""
-description: "Catherine Koch"
+description: "Percy Hayes"
 date: 2024-02-01 06:00:01+00:128
 draft: False
 hidden: True
 weight:
 ---
-### Catherine Koch
+### Percy Hayes
 
-<p style="text-align: center"><img src="/portraits/nl-catherine-koch.jpg"></p>
+<p style="text-align: center"><img src="/portraits/nl-percy-and-phyllis-hayes.jpg"></p>
 
 **Auteur** | **Titel** | **Datum van het bericht**
 ---|---|---

@@ -8,3 +8,8 @@ hidden: True
 weight:
 ---
 ### Eileen Caddy
+
+<p style="text-align: center"><img src="/portraits/nl-eileen-caddy.JPG"></p>
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

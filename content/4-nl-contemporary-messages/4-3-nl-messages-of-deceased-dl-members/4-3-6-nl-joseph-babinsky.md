@@ -9,4 +9,7 @@ weight:
 ---
 ### Joseph Babinsky
 
-![foto](/portraits/nl-joseph-babinsky.jpg)
+<p style="text-align: center"><img src="/portraits/nl-joseph-babinsky.JPG"></p>
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

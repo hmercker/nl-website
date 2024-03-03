@@ -9,4 +9,7 @@ weight:
 ---
 ### Care Darby Walsh
 
-![foto](/portraits/nl-care-cerby-walsh.jpg)
+<p style="text-align: center"><img src="/portraits/nl-care-darby-walsh.JPG"></p>
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

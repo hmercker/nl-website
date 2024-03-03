@@ -8,3 +8,8 @@ hidden: True
 weight:
 ---
 ### Alec Gaunt
+
+<p style="text-align: center"><img src="/portraits/nl-alec-gaunt.jpg"></p>
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---
