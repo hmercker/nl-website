@@ -19,7 +19,7 @@ Mijn eigen liefde en kracht zullen je leiden en je op de weg van Licht en Waarhe
 
 Je eigen ziel moet eerst gezuiverd worden. Pas dan zul je in staat zijn anderen de kracht en liefde te tonen, die Ik voor hen heb.
 
-Je mag de hulp van andere geestelijke wezens niet inroepen, voordat Ik je de Waarheden van mijn Vader heb onderwezen. Hij is de Enige die de macht heeft de mensen te redden van hun zonden en dwalingen. Wees getrouw en eerlijk in je Werk en laat je geest niet door andere dingen afleiden van de taak die voor je ligt. [1] De wereld heeft een nieuw ontwaken nodig, en de ontrouw en het ongeloof van mensen die denken dat ze wijs zijn, maar die dwaas zijn, zoals ze uiteindelijk zullen ontdekken; en de materiële aangelegenheden moeten hun zielen niet veel langer bezighouden, of ze zullen meer lijden dan ze zich kunnen voorstellen. De materiële behoeften van de mensheid zijn niet de enige wolken die van hun zielen moeten worden weggenomen.
+Je mag de hulp van andere geestelijke wezens niet inroepen, voordat Ik je de Waarheden van mijn Vader heb onderwezen. Hij is de Enige die de macht heeft de mensen te redden van hun zonden en dwalingen. Wees getrouw en eerlijk in je Werk en laat je geest niet door andere dingen afleiden van de taak die voor je ligt. [^1] De wereld heeft een nieuw ontwaken nodig, en de ontrouw en het ongeloof van mensen die denken dat ze wijs zijn, maar die dwaas zijn, zoals ze uiteindelijk zullen ontdekken; en de materiële aangelegenheden moeten hun zielen niet veel langer bezighouden, of ze zullen meer lijden dan ze zich kunnen voorstellen. De materiële behoeften van de mensheid zijn niet de enige wolken die van hun zielen moeten worden weggenomen.
 
 Je bent nu te zwak om meer te schrijven.
 

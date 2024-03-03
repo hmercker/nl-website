@@ -10,3 +10,9 @@ weight:
 ### Bemoediging van de heer Padgett's moeder
 
 Ann Padgett - ontvangen door James Padgett op 5 oktober 1914, Washington, DC, USA.
+
+O, mijn lieve zoon:
+
+De Meester heeft je de Weg naar Verlossing getoond. Geloof het alsjeblieft!
+
+Ik ben je liefhebbende moeder.
