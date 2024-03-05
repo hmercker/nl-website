@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### Het ware Koninkrijk van de Hemel dat Jezus op Aarde onderwees - de Goddelijke Hemelen
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

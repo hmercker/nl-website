@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### Het belang van gebed en geloof
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

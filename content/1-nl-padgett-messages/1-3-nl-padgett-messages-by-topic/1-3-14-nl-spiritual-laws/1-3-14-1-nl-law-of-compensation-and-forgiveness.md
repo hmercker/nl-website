@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### De Wet van de Compensatie en Vergeving
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

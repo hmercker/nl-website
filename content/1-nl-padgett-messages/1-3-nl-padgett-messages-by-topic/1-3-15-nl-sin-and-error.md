@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### Zonde en dwaling
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

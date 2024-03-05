@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### De schepping en de zondeval van onze eerste ouders - Genesis opnieuw bekeken
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

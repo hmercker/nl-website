@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### De Geestelijke Wezens
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

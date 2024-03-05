@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### Het Koninkrijk van de Volmaakte Natuurlijke Mens - de Spirituele Hemelen
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

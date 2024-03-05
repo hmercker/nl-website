@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### De Goddelijke Liefde van de Vader en de Nieuwe Geboorte van de Ziel
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

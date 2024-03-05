@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### Waarheden rond de geboorte en het leven van Jezus van Nazareth
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### De ware aard van God, de Hemelse Vader
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### Wat zeggen de Berichten over de Bijbel?
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

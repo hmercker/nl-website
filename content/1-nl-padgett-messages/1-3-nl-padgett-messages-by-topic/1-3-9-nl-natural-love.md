@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### De Natuurlijke Liefde van de Mens
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

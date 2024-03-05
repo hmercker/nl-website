@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### De Wetten van Rapport en Communicatie tussen geestelijke wezens en stervelingen
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

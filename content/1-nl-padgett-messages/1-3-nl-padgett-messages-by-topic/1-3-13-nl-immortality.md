@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### Onsterfelijkheid
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

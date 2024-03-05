@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### Correcties in de orthodoxe christelijke leer
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

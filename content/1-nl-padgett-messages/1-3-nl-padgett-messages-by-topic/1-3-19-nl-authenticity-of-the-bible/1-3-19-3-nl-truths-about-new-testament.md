@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### Waarheden over het Nieuwe Testament
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

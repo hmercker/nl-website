@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### De ware Wederopstanding
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

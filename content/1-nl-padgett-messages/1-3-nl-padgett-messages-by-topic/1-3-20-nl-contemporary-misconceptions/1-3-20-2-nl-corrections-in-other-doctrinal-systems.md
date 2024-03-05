@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### Correcties in andere doctrinaire systemen
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

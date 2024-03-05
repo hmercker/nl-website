@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### De ziel van de mens
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

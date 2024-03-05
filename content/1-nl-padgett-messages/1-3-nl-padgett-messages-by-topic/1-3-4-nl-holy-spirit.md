@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### De Heilige Geest
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

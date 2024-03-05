@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### Het Gebed perfect
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

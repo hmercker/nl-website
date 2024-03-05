@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### Individuele vooruitgang
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---

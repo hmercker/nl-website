@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### De continuïteit van leven na de dood
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---
