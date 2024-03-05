@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### De incarnatie van de ziel
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---
