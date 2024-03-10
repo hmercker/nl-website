@@ -9,8 +9,7 @@ weight: 5
 ---
 ## Introductie
 
-Introductie
-Een hartelijk welkom op onze website. Mogen de hier gepresenteerde pagina's je vreugde brengen op je spirituele reis naar het ontwaken van je ziel en verlichting. Je hebt de ware leringen van Jezus gevonden zoals die voor het eerst door James Padgett in de beginjaren van de vorige eeuw via automatisch schrift werden ontvangen. Na James Padgett zijn er berichten ontvangen via andere media, die ook hier op de website te vinden zijn. Deze berichten, afkomstig van de hoogste engelen van het Koninkrijk van God, onthullen de waarheden die Jezus zelf heeft ervaren en aan de mensheid heeft geopenbaard.
+Een hartelijk welkom op onze website. Mogen de hier gepresenteerde pagina's je vreugde brengen op je spirituele reis naar het ontwaken van je ziel en verlichting. Je hebt de ware leringen van Jezus gevonden zoals die voor het eerst door James Padgett in de beginjaren van de vorige eeuw via automatisch schrift werden ontvangen. Na James Padgett zijn er berichten ontvangen door andere mediums, die ook hier op de website te vinden zijn. Deze berichten, afkomstig van de hoogste engelen van het Koninkrijk van God, onthullen de waarheden die Jezus zelf heeft ervaren en aan de mensheid heeft geopenbaard.
 
 ### Over de selectie van de heer Padgett
 
