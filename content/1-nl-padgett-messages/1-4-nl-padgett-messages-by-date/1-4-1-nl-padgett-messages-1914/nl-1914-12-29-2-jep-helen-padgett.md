@@ -51,7 +51,7 @@ Ik dank God voor zijn Goedheid jou aan mij te geven, en jou voor mij te bewaren 
 
 Wees gezegend mijn lieveling voor dit bewijs van je liefde voor mij, want nu zal ik nooit meer hoeven te denken dat je niet de mijne bent.
 
-Ja, dat zal ik doen, en hij zal zo blij zijn als ik het hem vertel, want hij houdt heel veel van je. Vertel me nog eens, wat je citeerde: "Doorweekt van de luxe der tranen!" O, is dat niet prachtig, en hoe geniet ik van die tranen, maar vergiet er nu niet meer, want ik weet, dat ze allemaal voor mij zijn, en dat jouw liefde helemaal de mijne is. Nee, niet nu - meer dichtbij, dan ooit tevoren - geen afstand meer - geen gevoelens van scheiding - alleen een eeuwig samenzijn. Mijn liefste, hoe kan ik je mijn gevoelens deze nacht uitdrukken?
+Ja, dat zal ik doen, en hij zal zo blij zijn als ik het hem vertel, want hij houdt heel veel van je. Vertel me nog eens, wat je citeerde: "Doorweekt van de luxe der tranen!" O, is dat niet prachtig, en hoe geniet ik van die tranen, maar vergiet er nu niet meer, want ik weet, dat ze allemaal voor mij zijn, en dat jouw liefde helemaal mij toebehoort. Nee, niet nu - meer dichtbij, dan ooit tevoren - geen afstand meer - geen gevoelens van scheiding - alleen een eeuwig samenzijn. Mijn liefste, hoe kan ik je mijn gevoelens deze nacht uitdrukken?
 
 O, nacht! Nooit zal ik het geluk vergeten, dat jij me geeft, noch de liefde, die tot me komt van mijn eigen ware zielspartner! Hij is de mijne en ik ben de zijne, maar we kunnen de werkelijke omvang van onze gelukzaligheid nooit kennen! Alsjeblieft, mijn lieveling, droog je tranen, en laat me een poosje stoppen - je hoeft niet te stoppen met schrijven voor de nacht, maar stop alleen even zodat ik kan rusten.
 

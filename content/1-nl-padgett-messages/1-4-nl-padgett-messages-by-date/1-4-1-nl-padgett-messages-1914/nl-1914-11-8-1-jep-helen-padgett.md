@@ -33,6 +33,6 @@ Zijn bloed red je niet, evenmin als zijn dood, maar zijn liefde en leringen redd
 
 Ja, maar je bad niet tot de Vader zoals je had moeten doen. Laat de gedachte dat je voor hem gaat schrijven, je er niet van weerhouden tot de Vader te bidden, of je zult geen vorderingen maken in je geestelijk leven.
 
-Je bent niet in de conditie om vanavond meer te schrijven, of ik zou volledig moeten schrijven over wat je je precies moet weten en later zult doen. Je zult spoedig weten wat ik precies bedoel. Ga nu maar naar bed en rust uit.
+Je bent niet in de conditie om vanavond meer te schrijven, of ik zou volledig moeten schrijven over wat je precies moet weten en later zult doen. Je zult spoedig weten wat ik precies bedoel. Ga nu maar naar bed en rust uit.
 
 Goedenacht, je grootmoeder, Goedenacht, vergezeld van al mijn liefde, Helen.

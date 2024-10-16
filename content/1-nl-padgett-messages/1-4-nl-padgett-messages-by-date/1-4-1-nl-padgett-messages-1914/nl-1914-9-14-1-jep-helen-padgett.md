@@ -35,7 +35,7 @@ Hij zal komen als je serieus om hem vraagt. Dan zal hij je de ware en geheime be
 
 Ja, en ik maak snelle vorderingen en zal spoedig in de Derde Sfeer zijn. Dat moet je nu niet wensen - wees nog even tevreden en je zult bij me zijn. Nee, ik zal op je wachten, en we zullen samen naar de hogere sferen van Liefde en Licht gaan. We zullen altijd samen zijn, als man en vrouw.
 
-(James vroeg of zij ze veel van haar kinderen hield)
+(James vroeg of ze veel van haar kinderen hield)
 
 Ja ik hou van ze en ben heel vaak bij ze, maar ze zijn de liefdespartners van anderen. Zij zullen hun geluk vinden in de samenleving met die anderen. Zij zullen mij na een tijdje niet meer nodig hebben - behalve, dat ik ze zal helpen te voelen dat hun moeder over hen waakt en van hen houdt als een echte moeder. Laat hun leven niet te veel deel uitmaken van het jouwe, want jij bent niet degene van wie God bepaald heeft voor altijd bij hen te zijn als hun ware liefde. Laat je liefde voor hen alleen hen helpen te leren dat zij juist moeten leven en hun God moeten liefhebben.
 

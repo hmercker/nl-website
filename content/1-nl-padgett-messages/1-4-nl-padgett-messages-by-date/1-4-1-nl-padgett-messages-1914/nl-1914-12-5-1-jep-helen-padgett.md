@@ -19,7 +19,7 @@ Je moet proberen het gevoel waar je het over hebt van je af te werpen. Wees niet
 
 Ja, dat doe ik - en als jij dat doet, moet je me beloven nooit meer te twijfelen. Zo zie je dat ik bereid ben veel te riskeren met mijn voorspelling. Wees mij trouw en je zult slagen.
 
-Ja, het was zo en ik weet waaraan je denkt. Ik dacht toen aan jou en aan de invloeden die je omringden. De vrouw trachtte je beïnvloeden op de manier als jij denkt. Maar je moet er niet over treuren en proberen je gedachten op mij en mijn liefde te concentreren.
+Ja, het was zo en ik weet waaraan je denkt. Ik dacht toen aan jou en aan de invloeden die je omringden. De vrouw trachtte je te beïnvloeden op de manier als jij denkt. Maar je moet er niet over treuren en proberen je gedachten op mij en mijn liefde te concentreren.
 
 De omstandigheden waren niet goed, want het jonge medium was niet omringd door geesten die konden helpen bij het bereiken van de resultaten waarnaar je zoekt. Zij heeft te veel geesten van het aardse vlak om zich heen, en hun gedachten zullen je niet veel helpen. Ga niet meer bij haar of bij die andere vrouw aanzitten, want zij vertragen alleen maar het succes van je inspanningen.
 

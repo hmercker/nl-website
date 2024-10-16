@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-### Mevrouw Mary Baker Eddy erkent de dwaling in haar leringen
+### Mevrouw Mary Baker Eddy [^1] erkent de dwaling in haar leringen
 
 Ann Padgett - ontvangen door James Padgett op 5 december 1914, Washington, DC, USA.
 
@@ -20,3 +20,6 @@ Zij is een heel helder geestelijk wezen maar weet niet alles van wat ze dacht te
 Zij zou kunnen - ik weet het niet, maar ik zal het haar vragen. Ja, ik zal met heel mijn hart voor je bidden, mijn lieve jongen. Voor nu goede nacht.
 
 Je moeder, Ann R. Padgett.
+<small>
+
+[^1]: Mevrouw Mary Baker Eddy heeft later nog twee berichten geschreven, Gedateerd [17 december 1916](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-4-nl-padgett-messages-1916/nl-1916-12-17-2-jep-mary-baker-eddy/) en [13 juni 1918](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-6-nl-padgett-messages-1918/nl-1918-6-13-1-jep-mary-baker-eddy/).
