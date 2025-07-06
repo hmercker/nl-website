@@ -61,3 +61,24 @@ Lees hier meer over [James E. Padgett](/1-nl-padgett-messages/1-6-nl-who-was-pad
 Hier vind je een [samenvatting van Jezus’ onderricht bij zijn tweede komst](/1-nl-padgett-messages/1-1-nl-summary-of-padgett-teachings/).
 
 Je kunt hier ook meer lezen over [De Weg van de Goddelijke Liefde](/9-nl-divine-love-path/).
+
+**Auteur** | **Titel** | **Datum van het bericht**
+---|---|---
+Jezus | [Jezus licht toe waarom hij de heer Padgett uitgekozen heeft](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-6-nl-padgett-messages-1918/nl-1918-10-25-1-jep-jesus/) | 25 oktober 1918
+Jezus | [Deze berichten zijn onderdeel van Jezus'  wederkomst op aarde](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-3-nl-padgett-messages-1915-2/nl-1915-12-2-1-jep-jesus/) | 2 december 1915
+James the Lesser | [Jacobus de Mindere verzekert de heer Padgett naar beste vermogen te steunen](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-3-nl-padgett-messages-1915-2/nl-1915-10-8-1-jep-james-the-lesser/) | 8 oktober 1915
+Jezus | [Jezus wenst dat de wereld zijn leringen volgt](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-1-nl-padgett-messages-1914/nl-1914-9-12-1-jep-jesus/) | 12 september 1914
+Jezus | [Jesus wil over de Goddelijke Liefde schrijven](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-1-nl-padgett-messages-1914/nl-1914-9-29-1-jep-jesus/) | 29 september 1914
+Jezus | [Jezus zegt dat er maar een God is: de Hemelse Vader](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-2-nl-padgett-messages-1915-1/nl-1915-1-24-1-jep-jesus/) | 24 januari 1915
+Jezus | [Het tweede formele bericht van Jezus over de Natuur van zijn Vader als mijn en jouw God](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-2-nl-padgett-messages-1915-1/nl-1915-1-31-1-jep-jesus/) | 31 januari 1915
+Ann Rollins | [Een bericht van Ann Rollins](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-2-nl-padgett-messages-1915-1/nl-1915-1-31-2-jep-ann-rollins/) | 31 januari 1915
+Jezus | [Jezus is niet God maar is door de Vader gezonden om de mensen richting diens Gunst en Liefde te voeren](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-1-nl-padgett-messages-1914/nl-1914-9-24-2-jep-jesus/) | 24 september 1914
+Jezus | [Jezus verwijst naar een geestelijk wezen dat beweert zijn ziel verloren te hebben](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-2-nl-padgett-messages-1915-1/nl-1915-4-3-1-jep-jesus/) | 3 april 1915
+Helen Padgett | [Helen reageert op het voorgaande bericht en bevestigt de identiteit van Jezus](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-2-nl-padgett-messages-1915-1/nl-1915-4-3-2-jep-helen-padgett/) | 3 april 1915
+Ann Rollins | [Ann Rollins verzekert de heer Padgett dat het Jezus van de Bijbel is die schrijft ](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-2-nl-padgett-messages-1915-1/nl-1915-4-5-2-jep-ann-rollins/) | 5 april 1915
+Jezus | [Het resultaat van de heer Padgett’s verklaring](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-2-nl-padgett-messages-1915-1/nl-1915-4-6-1-jep-jesus/) | 6 april 1915
+Jezus | [Jezus verklaart dat hij een mens is en geen God](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-2-nl-padgett-messages-1915-1/nl-1915-6-15-1-jep-jesus/) | 15 juni 1915
+Helen Padgett | [Helen uit Jezus' teleurstelling over het feit dat hij geen bericht kon overbrengen](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-2-nl-padgett-messages-1915-1/nl-1915-6-15-2-jep-helen-padgett/) | 15 juni 1915
+Jezus | [Over het belang de ziel met behulp van de Goddelijke Liefde te ontwikkelen](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-2-nl-padgett-messages-1915-1/nl-1915-7-8-4-jep-jesus/) | 8 juli 1915
+Johannes | [Johannes bevestigt dat Jezus via de heer Padgett schrijft](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-2-nl-padgett-messages-1915-1/nl-1915-6-27-1-jep-st-john/) | 27 juni 1915
+Johannes de Doper | [De tijd is rijp om de waarheden bekend te maken](/1-nl-padgett-messages/1-4-nl-padgett-messages-by-date/1-4-3-nl-padgett-messages-1915-2/nl-1915-9-7-3-jep-john-the-baptist/) | 7 september 1915
