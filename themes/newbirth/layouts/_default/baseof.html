@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>{{ block "title" . }}{{ .Title }}{{ end }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="/favicon.ico">
+
+  {{ $styles := resources.Get "scss/style.scss" | toCSS (dict "targetPath" "css/style.css" "enableSourceMap" true) }}
+
+  {{ if .Site.IsServer }}
+  <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+  {{ else }}
+  <link rel="stylesheet" href="{{ ($styles | minify | fingerprint).RelPermalink }}">
+  {{ end }}
+
+  <link rel="preload" href="/fonts/pt-serif-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/pt-serif-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
+  {{ block "header_css" . }}{{ end }}
+  {{ block "meta_tags" . }}{{ end }}
+  {{ template "_internal/google_analytics.html" . }}
+</head>
+
+<body class='page {{ block "body_classes" . }}{{ end }}'>
+  <div class="container">
+
+    <!-- Header -->
+    <header id="header">
+      <!-- Search -->
+      <div id="search">
+
+        <form action="https://search.freefind.com/find.html" method="GET">
+          <input type="hidden" name="lang" value="de">
+          <input type="hidden" name="id" value="62743184">
+          <input type="hidden" name="id2" value="2911983">
+          <input type="hidden" name="pid" value="r">
+          <input type="hidden" name="mode" value="ALL">
+          <input type="hidden" name="n" value="0">
+          <input name="" type="submit" value="" aria-label="Zoeken">
+          <label>Zoeken:<input name="query" type="text"></label>
+        </form>
+
+      </div>
+      <!-- /Search -->
+    </header>
+    <!-- /Header -->
+
+    <!-- Banner -->
+    {{ block "banner" . }}
+    <div id="banner">
+      <a href="/" title="Home | New birth">
+        <picture><source srcset="{{ "images/nl-logo-banner-inner.webp" | relURL }}" type="image/webp"><img fetchpriority="high" class="img-fluid" src="{{ "images/nl-logo-banner-inner.jpg" | relURL }}" width="940" height="81"
+          alt="Eine Spirituelle Reise" /></picture>
+      </a>
+    </div>
+    {{ end }}
+    <!-- /Banner -->
+
+    <!-- Content -->
+    <div id="content" class="row-fluid">
+      {{ if .IsHome }}
+      {{ else }}
+      {{ partial "toolbox.html" . }}
+      {{ end }}
+      <!-- Primary navigation -->
+      <nav id="nav-primary">
+        {{ partial "docs-menu.html" . }}
+      </nav>
+      <!-- /Primary navigation -->
+      <!-- Article -->
+      <article role="main">
+        <div class="wrapper content">
+          {{ block "main" . }}{{ end }}
+        </div>
+      </article>
+      <!-- /Article -->
+      <div class="clearfix">
+      </div>
+    </div>
+    <!-- /Content -->
+
+  </div>
+
+  <!-- Footer -->
+  <footer id="footer">
+    &copy; {{ .Site.Title }}, {{ now.Format "2006"}}
+  </footer>
+
+
+  {{ $scripts := resources.Get "js/scripts.js" }}
+  {{ $js := slice $scripts | resources.Concat "js/bundle.js" }}
+
+  {{ if .Site.IsServer }}
+  <script type="text/javascript" src="{{ $js.RelPermalink }}"></script>
+  {{ else }}
+  <script type="text/javascript" src="{{ ($js | minify | fingerprint).RelPermalink }}"></script>
+  {{ end }}
+
+  {{ block "footer_js" . }}
+  {{ end }}
+
+</body>
+
+</html>

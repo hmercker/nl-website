@@ -1,0 +1,28 @@
+{{ define "title" }}{{ end}}
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-home{{ end }}
+
+{{ define "meta_tags" }}
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Title }}{{ end }}" />
+    <meta property="og:title" content="{{ .Site.Params.homepage_meta_tags.meta_og_title }}" />
+    <meta property="og:type" content="{{ .Site.Params.homepage_meta_tags.meta_og_type }}" />
+    <meta property="og:url" content="{{ .Site.Params.homepage_meta_tags.meta_og_url }}" />
+    <meta property="og:image" content="{{ .Site.Params.homepage_meta_tags.meta_og_image }}" />
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Title }}{{ end }}" />
+    <meta property="og:site_name" content="{{ .Site.Params.homepage_meta_tags.meta_og_site_name }}" />
+{{ end }}
+
+{{ define "banner" }}
+<!-- Banner -->
+<div id="banner">
+    <picture><source srcset="{{ "images/logo-banner.webp" | relURL }}" type="image/webp"><img class="img-fluid" src="{{ "images/logo-banner.jpg" | relURL }}" width="940" height="320" alt="A Spiritual Journey" fetchpriority="high" /></picture>
+</div>
+<!-- /Banner -->
+{{ end }}
+
+{{ define "main" }}
+{{.Content}}
+{{ end }}
+
+{{ define "footer_js" }}
+{{ end }}
