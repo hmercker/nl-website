@@ -64,6 +64,9 @@
     border: none;
     cursor: pointer;
     background: url(../images/ico-search.png) 0 0 no-repeat;
+    /* Hide the browser's default "Submit" text (the minifier removes the empty value=""). */
+    text-indent: -9999px;
+    overflow: hidden;
 }
 
 #search label {

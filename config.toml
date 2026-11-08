@@ -1,9 +1,15 @@
-baseURL = ""
+baseURL = "https://nieuwe-geboorte.nl/"
 languageCode = "nl-NL"
 title = "nieuwe-geboorte.nl"
 theme = "newbirth"
 enableRobotsTXT = true
-googleAnalytics = "UA-xxxxx-1"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      # Show the HTML written inside pages (footnotes, images, line breaks, anchors).
+      # All content on this site is written by the site owner and team.
+      unsafe = true
 
 [outputs]
 home = [ "HTML", "HEADERS" ]
